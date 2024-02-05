@@ -4,7 +4,7 @@ Prompt engineering is the process of writing, refining and optimizing inputs, or
 
 Prompt engineering is a skill that can be learned and improved over time, by experimenting with different prompts and observing the results. There are also tools and resources that can help users with prompt engineering, such as prompt libraries, prompt generators, or prompt evaluators.
 
-This folder contains prompt examples for use with Copilot for Security to provide ideas of things that work and deliver templates to build on for your own use.
+This folder contains prompt examples for use with Copilot for Security to provide ideas to build on to create your own.
 
 * <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md" target="_blank">Defender XDR</a>
 

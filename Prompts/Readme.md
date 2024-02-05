@@ -10,3 +10,19 @@ Prompt engineering is a skill that can be learned and improved over time, by exp
 
 This folder contains prompt examples for use with Copilot for Security to provide ideas of things that work and deliver templates to build on for your own use.
 
+
+Defender XDR
+
+Entra
+
+Intune
+
+MDTI
+
+Purview
+
+Sentinel
+
+ServiceNow
+
+

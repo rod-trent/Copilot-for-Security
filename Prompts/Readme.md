@@ -19,7 +19,7 @@ Defender XDR
 
 MDTI
 
-Purview
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Purview.md" target="_blank">Purview</a>
 
 Sentinel
 

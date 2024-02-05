@@ -21,7 +21,7 @@ MDTI
 
 * <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Purview.md" target="_blank">Purview</a>
 
-Sentinel
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Sentinel.md" target="_blank">Sentinel</a>
 
 ServiceNow
 

@@ -1,6 +1,6 @@
-# Must Learn Security Copilot<br>
+# Must Learn Copilot for Security<br>
 
-Learning the concepts of implementing and using Microsoft Security Copilot
+Learning the concepts of implementing and using Microsoft Copilot for Security
 
 * <a href="https://rodtrent.substack.com/p/microsoft-security-copilot-the-introduction" target="_blank">Microsoft Security Copilot - the Introduction</a> - <i>Posted November 7, 2023</i><br>
 * <a href="https://rodtrent.substack.com/p/how-microsoft-security-copilot-can" target="_blank">How Microsoft Security Copilot Can Help Defend Against Cyberthreats</a> - <i>Posted November 9, 2023</i><br>
@@ -10,7 +10,7 @@ Learning the concepts of implementing and using Microsoft Security Copilot
 
 ## FAQ<br>
 
-<b>Q:</b> If I use Security Copilot will I still need to learn KQL?<br>
+<b>Q:</b> If I use Copilot for Security will I still need to learn KQL?<br>
 <b>A:</b> Yes. You need to be able to recognize if the KQL query offered will produce what you requested and when the query should be optimized.
 <br><br>
 Get started learning KQL: https://aka.ms/MustLearnKQL

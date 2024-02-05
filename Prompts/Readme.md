@@ -13,13 +13,13 @@ This folder contains prompt examples for use with Copilot for Security to provid
 
 Defender XDR
 
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Entra.md" target="_blank">Entra</a>
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md" target="_blank">Entra</a>
 
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Intune.md" target="_blank">Intune</a>
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Intune.md" target="_blank">Intune</a>
 
 MDTI
 
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Purview.md" target="_blank">Purview</a>
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Purview.md" target="_blank">Purview</a>
 
 Sentinel
 

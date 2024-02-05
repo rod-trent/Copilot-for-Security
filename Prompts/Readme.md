@@ -15,8 +15,6 @@ Defender XDR
 
 * <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Entra.md" target="_blank">Entra</a>
 
-https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Entra.md Entra
-
 Intune
 
 MDTI

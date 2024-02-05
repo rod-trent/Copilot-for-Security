@@ -8,3 +8,5 @@ Prompt engineering is important because it allows AI models to produce more accu
 
 Prompt engineering is a skill that can be learned and improved over time, by experimenting with different prompts and observing the results. There are also tools and resources that can help users with prompt engineering, such as prompt libraries, prompt generators, or prompt evaluators.
 
+This folder contains prompt examples for use with Copilot for Security to provide ideas of things that work and deliver templates to build on for your own use.
+

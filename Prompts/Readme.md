@@ -13,7 +13,9 @@ This folder contains prompt examples for use with Copilot for Security to provid
 
 Defender XDR
 
-Entra
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Entra.md" target="_blank">Entra</a>
+
+https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Entra.md Entra
 
 Intune
 

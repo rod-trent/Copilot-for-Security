@@ -6,6 +6,8 @@ Prompt engineering is a skill that can be learned and improved over time, by exp
 
 This folder contains prompt examples for use with Copilot for Security to provide ideas to build on to create your own.
 
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/General.md" target="_blank">General</a>
+
 * <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md" target="_blank">Defender XDR</a>
 
 * <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md" target="_blank">Entra</a>

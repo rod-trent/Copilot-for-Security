@@ -38,3 +38,44 @@ Review the latest encryption algorithms for protecting sensitive data.
 Generate a monthly report template for tracking security incidents and resolutions.
 ```
 ---
+```
+Develop a security protocol for identifying and handling insider threats.
+```
+---
+```
+Design a disaster recovery plan for a cyberattack on critical infrastructure.
+```
+---
+```
+Formulate a response strategy for a ransomware attack on enterprise systems.
+```
+---
+```
+Craft a security policy for remote workers accessing company resources.
+```
+---
+```
+Analyze the security posture of a mobile application and suggest improvements.
+```
+---
+```
+Create a guide for conducting penetration testing on a web application.
+```
+---
+```
+Generate a weekly security briefing on emerging cyber threats.
+```
+---
+```
+Outline a process for secure software development lifecycle (SDLC).
+```
+---
+```
+Prepare a risk assessment report for a new fintech product launch.
+```
+---
+```
+Construct a compliance checklist for GDPR in a multinational corporation.
+```
+---
+

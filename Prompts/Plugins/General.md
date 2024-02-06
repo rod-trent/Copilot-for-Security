@@ -78,4 +78,7 @@ Prepare a risk assessment report for a new fintech product launch.
 Construct a compliance checklist for GDPR in a multinational corporation.
 ```
 ---
-
+```
+Which are the most active nation state actors?
+```
+---

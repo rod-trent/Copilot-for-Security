@@ -17,9 +17,9 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 ## FAQ<br>
 
 <b>Q:</b> If I use Copilot for Security will I still need to learn KQL?<br>
-<b>A:</b> Yes. You need to be able to recognize if the KQL query offered will produce what you requested and when the query should be optimized.
+<b>A:</b> Yes. You need to be able to recognize if the KQL query offered will produce what you requested and when the query should be optimized. Get started learning KQL: https://aka.ms/MustLearnKQL
 
 <b>Q:</b> Are there any prompt examples that I can use as templates?<br>
 <b>A:</b> Yes. See: https://github.com/rod-trent/Security-Copilot/tree/main/Prompts<br>
 <br><br>
-Get started learning KQL: https://aka.ms/MustLearnKQL
+

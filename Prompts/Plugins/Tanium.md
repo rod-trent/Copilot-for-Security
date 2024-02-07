@@ -22,10 +22,9 @@ Show me the details of defender incident 43
 ```
         Analyze the suspicious powershell script    
         ```
-            deobfuscate the url
+            Deobfuscate the url
             ```
-                use tanium to tell me all of the machines that are currently connected to the malicious ip address
-```
+                Use Tanium to tell me all of the machines that are currently connected to the malicious ip address
 ```
 ---
 

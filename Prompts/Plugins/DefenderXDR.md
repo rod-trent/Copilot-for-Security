@@ -42,3 +42,7 @@ Show high severity Microsoft 365 Defender incidents
 Get a report analyzing the intent, intelligence, threat actors, and impacts of a suspicious script.
 ```
 ---
+```
+Give me the top 5 high severity incidents from Microsoft Defender XDR that I should prioritize today. If there are not high severity incidents, give me the top medium severity incidents with the most number of users affected.
+```
+---

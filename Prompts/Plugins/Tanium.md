@@ -20,9 +20,12 @@ Show me the details of defender incident 43
 ```
   What are the main issues or indicators to investigate
 ```
+```
         Analyze the suspicious powershell script    
         ```
+```
             Deobfuscate the url
+            ```
             ```
                 Use Tanium to tell me all of the machines that are currently connected to the malicious ip address
 ```

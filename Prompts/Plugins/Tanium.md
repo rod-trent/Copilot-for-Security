@@ -16,6 +16,7 @@ Show me the systems that have log4j in their SBOM report, present the findings i
 ---
 ```
 Show me the details of defender incident 43
+  What are the main issues or indicators to investigate
 ```
 ---
 

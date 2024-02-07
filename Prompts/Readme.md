@@ -24,4 +24,4 @@ This folder contains prompt examples for use with Copilot for Security to provid
 
 * <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/ServiceNow.md" target="_blank">ServiceNow</a>
 
-* Tanium - [i]coming...[/i]
+* Tanium - <i>coming...</i>

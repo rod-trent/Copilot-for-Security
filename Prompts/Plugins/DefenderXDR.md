@@ -34,3 +34,7 @@ Generate and run Defender Hunting Queries
 Analyze a script or command
 ```
 ---
+```
+Show high severity Microsoft 365 Defender incidents
+```
+---

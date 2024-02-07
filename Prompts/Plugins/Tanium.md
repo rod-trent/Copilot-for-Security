@@ -22,6 +22,7 @@ Show me the details of defender incident 43
 ```
         Analyze the suspicious powershell script    
 ```
+```
 ---
 
 

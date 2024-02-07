@@ -4,6 +4,8 @@ Prompt engineering is the process of writing, refining and optimizing inputs, or
 
 Prompt engineering is a skill that can be learned and improved over time, by experimenting with different prompts and observing the results. There are also tools and resources that can help users with prompt engineering, such as prompt libraries, prompt generators, or prompt evaluators.
 
+Want to learn more? See: <a href="https://rodtrent.substack.com/p/prompt-engineering-for-ai-a-valuable">Prompt Engineering for AI: A Valuable Skill for Security Professionals?</a>
+
 This folder contains prompt examples for use with Copilot for Security to provide ideas to build on to create your own.
 
 * <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/General.md" target="_blank">General</a>

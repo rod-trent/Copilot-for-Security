@@ -38,3 +38,7 @@ Analyze a script or command
 Show high severity Microsoft 365 Defender incidents
 ```
 ---
+```
+Get a report analyzing the intent, intelligence, threat actors, and impacts of a suspicious script.
+```
+---

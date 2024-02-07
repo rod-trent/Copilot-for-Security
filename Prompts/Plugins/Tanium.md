@@ -20,7 +20,7 @@ Show me the details of defender incident 43
 ```
   What are the main issues or indicators to investigate
 ```
-    Analyze the suspicious powershell script    
+      Analyze the suspicious powershell script    
 ```
 ---
 

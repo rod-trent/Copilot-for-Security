@@ -14,4 +14,9 @@ What is the status of patch deployment for computer winl1-x64?
 Show me the systems that have log4j in their SBOM report, present the findings in a table
 ```
 ---
+```
+Show me the details of defender incident 43
+```
+---
+
 

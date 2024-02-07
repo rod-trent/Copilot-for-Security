@@ -58,3 +58,7 @@ Keep using threat intelligence and tell me more about CVE-2021-44077.
 Write me an executive summary report for the vulnerability, threat actor insights, and recommendations for someone who is less technical.
 ```
 ---
+```
+Give me a profile summary of <THREATACTORNAME>.
+```
+---

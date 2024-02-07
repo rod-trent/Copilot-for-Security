@@ -82,3 +82,7 @@ Construct a compliance checklist for GDPR in a multinational corporation.
 Which are the most active nation state actors?
 ```
 ---
+```
+Summarize recent threat intelligence.
+```
+---

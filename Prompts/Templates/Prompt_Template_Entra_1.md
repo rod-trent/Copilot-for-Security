@@ -1,4 +1,4 @@
-Certainly! Here's a template specifically designed for generating successful prompts for Copilot for Security within the context of Microsoft Entra:
+Here's a template specifically designed for generating successful prompts for Copilot for Security within the context of Microsoft Entra:
 
 ```markdown
 ## Microsoft Entra Security Prompt Template

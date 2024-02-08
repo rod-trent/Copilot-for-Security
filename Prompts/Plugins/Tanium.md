@@ -16,10 +16,10 @@ Show me the systems that have log4j in their SBOM report, present the findings i
 ---
 # Promptbook flow example:
 ```
-Show me the details of defender incident 43
+Show me the details of Defender Incident 43
 ```
 ```
-  What are the main issues or indicators to investigate
+  What are the main issues or indicators to investigate?
 ```
 ```
         Analyze the suspicious powershell script    

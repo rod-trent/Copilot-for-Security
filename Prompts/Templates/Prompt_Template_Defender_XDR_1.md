@@ -1,4 +1,4 @@
-Certainly! Here's a template for generating successful prompts for Copilot for Security, specifically tailored for Microsoft Defender for Endpoint, which is part of Microsoft Defender XDR:
+Here's a template for generating successful prompts for Copilot for Security, specifically tailored for Microsoft Defender for Endpoint, which is part of Microsoft Defender XDR:
 
 ```markdown
 ## Microsoft Defender for Endpoint Security Prompt Template

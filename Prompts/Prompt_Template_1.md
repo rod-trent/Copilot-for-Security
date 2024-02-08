@@ -31,8 +31,8 @@ Here's a template for generating successful prompts for Copilot for Security:
 - **Incident Classification**: [Classification of the incident, e.g., phishing, malware, unauthorized access]
 - **Certainty of Classification**: [Percentage certainty of the classification: 0-30%, 30-74%, 75-100%]
 - **Recommended Actions**: [Suggestions for preventing similar incidents in the future]
-
-*This template is designed to guide the creation of comprehensive and structured prompts for Copilot for Security, ensuring all relevant information is included for an effective analysis.*
 ```
+*This template is designed to guide the creation of comprehensive and structured prompts for Copilot for Security, ensuring all relevant information is included for an effective analysis.*
+
 
 This template can be used as a starting point for documenting security incidents and creating prompts for further analysis with Copilot for Security. It's important to fill in the details based on the specific incident you are dealing with to ensure accuracy and thoroughness.

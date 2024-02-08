@@ -45,9 +45,13 @@ This folder contains prompt examples and templates for use with Copilot for Secu
 
 </td>
 <td>
+
+### Promptbooks
+
 | Promptbook | Link |
 | -------- | ---- |
 | Log4j | [Log4j](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Log4j.md) |  
+
 </td>
 </tr>
 </table>

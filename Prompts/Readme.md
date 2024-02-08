@@ -46,4 +46,4 @@ This folder contains prompt examples and templates for use with Copilot for Secu
 </td>
 </tr>
 </table>
-```
+

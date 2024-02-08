@@ -1,4 +1,4 @@
-Certainly! Here's a template for generating successful prompts for Copilot for Security, specifically designed for Microsoft Purview:
+Here's a template for generating successful prompts for Copilot for Security, specifically designed for Microsoft Purview:
 
 ```markdown
 ## Microsoft Purview Security Prompt Template

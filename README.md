@@ -1,4 +1,4 @@
-Did you stop by looking for sample prompts and templates for Copilot for Security. Go here: <a href="https://github.com/rod-trent/Security-Copilot/tree/main/Prompts" target="_blank">Copilot for Security Prompt Samples and Templates</a>
+Did you stop by looking for sample prompts and prompt templates for Copilot for Security. Go here: <a href="https://github.com/rod-trent/Security-Copilot/tree/main/Prompts" target="_blank">Copilot for Security Prompt Samples and Templates</a>
 
 # Must Learn Copilot for Security<br>
 

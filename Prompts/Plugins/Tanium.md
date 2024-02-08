@@ -7,7 +7,7 @@ Please patch affected windows systems
 ```
 ---
 ```
-What is the status of patch deployment for computer winl1-x64?
+What is the status of patch deployment for computer Win11-x64?
 ```
 ---
 ```

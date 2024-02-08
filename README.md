@@ -1,3 +1,5 @@
+Did you stop by looking for sample prompts and templates for Copilot for Security. Go here: <a href="https://github.com/rod-trent/Security-Copilot/tree/main/Prompts" target="_blank">Copilot for Security Prompt Samples and Templates</a>
+
 # Must Learn Copilot for Security<br>
 
 Learning the concepts of implementing and using Microsoft Copilot for Security

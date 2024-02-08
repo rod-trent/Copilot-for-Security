@@ -38,4 +38,4 @@ Here are the provided links organized into markdown tables for better readabilit
 | Purview | [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Purview_1.md) |
 | Sentinel | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md) |
 
-Please note that the "MDO" link is not provided, so it's listed without a hyperlink. If you have the link for it, you can easily add it to the table in the same format as the others.
+

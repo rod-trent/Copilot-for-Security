@@ -8,6 +8,11 @@ Want to learn more? See: <a href="https://rodtrent.substack.com/p/prompt-enginee
 
 This folder contains prompt examples and templates for use with Copilot for Security to provide ideas to build on to create your own.
 
+```html
+<table>
+<tr>
+<td>
+
 ### Examples
 
 | Plugin | Link |
@@ -23,6 +28,9 @@ This folder contains prompt examples and templates for use with Copilot for Secu
 | ServiceNow | [ServiceNow](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/ServiceNow.md) |
 | Tanium | [Tanium](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Tanium.md) |
 
+</td>
+<td>
+
 ### Templates
 
 | Template | Link |
@@ -36,4 +44,7 @@ This folder contains prompt examples and templates for use with Copilot for Secu
 | Purview | [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Purview_1.md) |
 | Sentinel | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md) |
 
-
+</td>
+</tr>
+</table>
+```

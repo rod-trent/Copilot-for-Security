@@ -44,6 +44,11 @@ This folder contains prompt examples and templates for use with Copilot for Secu
 | Sentinel | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md) |
 
 </td>
+<td>
+| Promptbook | Link |
+| -------- | ---- |
+| Log4j | [Log4j](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Log4j.md) |  
+</td>
 </tr>
 </table>
 

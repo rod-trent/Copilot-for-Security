@@ -31,3 +31,5 @@ This folder contains prompt examples and templates for use with Copilot for Secu
 * <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Tanium.md" target="_blank">Tanium</a>
 
 # Templates
+
+* Defender

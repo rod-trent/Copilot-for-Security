@@ -8,42 +8,34 @@ Want to learn more? See: <a href="https://rodtrent.substack.com/p/prompt-enginee
 
 This folder contains prompt examples and templates for use with Copilot for Security to provide ideas to build on to create your own.
 
-# Examples
+Here are the provided links organized into markdown tables for better readability:
 
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/General.md" target="_blank">General</a>
+### Examples
 
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md" target="_blank">Defender XDR</a>
+| Plugin | Link |
+| ------ | ---- |
+| General | [General](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/General.md) |
+| Defender XDR | [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md) |
+| Entra | [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md) |
+| Intune | [Intune](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Intune.md) |
+| MDO | MDO |
+| MDTI | [MDTI](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/MDTI.md) |
+| Purview | [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Purview.md) |
+| Sentinel | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Sentinel.md) |
+| ServiceNow | [ServiceNow](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/ServiceNow.md) |
+| Tanium | [Tanium](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Tanium.md) |
 
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md" target="_blank">Entra</a>
+### Templates
 
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Intune.md" target="_blank">Intune</a>
+| Template | Link |
+| -------- | ---- |
+| General | [General](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_General_1.md) |
+| Defender XDR | [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Defender_XDR_1.md) |
+| Entra | [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Entra_1.md) |
+| Intune | [Intune](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Intune_1.md) |
+| MDO | [MDO](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDO_1.md) |
+| MDTI | [MDTI](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDTI_1.md) |
+| Purview | [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Purview_1.md) |
+| Sentinel | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md) |
 
-* MDO
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/MDTI.md" target="_blank">MDTI</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Purview.md" target="_blank">Purview</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Sentinel.md" target="_blank">Sentinel</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/ServiceNow.md" target="_blank">ServiceNow</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Tanium.md" target="_blank">Tanium</a>
-
-# Templates
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_General_1.md" target="_blank">General</a>
-  
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Defender_XDR_1.md" target="_blank">Defender XDR</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Entra_1.md" target="_blank">Entra</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Intune_1.md" target="_blank">Intune</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDO_1.md" target="_blank">MDO</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDTI_1.md" target="_blank">MDTI</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Purview_1.md" target="_blank">Purview</a>
-
-* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md" target="_blank">Sentinel</a>
+Please note that the "MDO" link is not provided, so it's listed without a hyperlink. If you have the link for it, you can easily add it to the table in the same format as the others.

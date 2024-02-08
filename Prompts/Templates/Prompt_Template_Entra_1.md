@@ -1,3 +1,6 @@
+Certainly! Here's a template specifically designed for generating successful prompts for Copilot for Security within the context of Microsoft Entra:
+
+```markdown
 ## Microsoft Entra Security Prompt Template
 
 ### Incident Overview:
@@ -27,5 +30,8 @@
 - **Incident Classification**: [Classification of the incident, e.g., identity compromise, unauthorized access]
 - **Certainty of Classification**: [Percentage certainty of the classification: 0-30%, 30-74%, 75-100%]
 - **Recommendations**: [Security improvements and preventive measures tailored for Microsoft Entra]
-
+```
 *This template is intended to streamline the creation of prompts for Copilot for Security, ensuring that all pertinent information related to Microsoft Entra is methodically documented and analyzed.*
+
+
+This template is tailored to address security incidents involving Microsoft Entra, focusing on identity and access management aspects. It's structured to help security professionals document and analyze incidents effectively, leading to better security insights and recommendations. Remember to customize the template with the specific details of the incident you're handling.

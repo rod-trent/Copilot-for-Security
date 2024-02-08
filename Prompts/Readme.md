@@ -32,18 +32,18 @@ This folder contains prompt examples and templates for use with Copilot for Secu
 
 # Templates
 
-* General
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_General_1.md" target="_blank">General</a>
   
-* Defender XDR
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Defender_XDR_1.md" target="_blank">Defender XDR</a>
 
-* Entra
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Entra_1.md" target="_blank">Entra</a>
 
-* Intune
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Intune_1.md" target="_blank">Intune</a>
 
-* MDO
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDO_1.md" target="_blank">MDO</a>
 
-* MDTI
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDTI_1.md" target="_blank">MDTI</a>
 
-* Purview
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Purview_1.md" target="_blank">Purview</a>
 
-* Sentinel
+* <a href="https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md" target="_blank">Sentinel</a>

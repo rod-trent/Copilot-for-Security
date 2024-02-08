@@ -50,9 +50,4 @@ To expose CVE-2021-44228 in an environment using Copilot for Security, you could
     Generate a detailed incident report for any signs of CVE-2021-44228 exploitation in our environment.
     ```
 
-These prompts are designed to guide Copilot for Security through a thorough investigation of CVE-2021-44228 within an environment, from initial identification to detailed reporting¹²³. Remember to tailor these prompts to fit the specific context and systems of your organization.
-
-Source: Conversation with Bing, 2/8/2024
-(1) Microsoft Security Copilot and Microsoft Defender Threat Intelligence .... https://learn.microsoft.com/en-us/defender/threat-intelligence/security-copilot-and-defender-threat-intelligence.
-(2) Learn how to mitigate the Log4Shell vulnerability in Microsoft Defender .... https://learn.microsoft.com/en-us/microsoft-365/security/defender-vulnerability-management/tvm-manage-log4shell-guidance?view=o365-worldwide.
-(3) 2021 Top Routinely Exploited Vulnerabilities | CISA. https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-117a.
+These prompts are designed to guide Copilot for Security through a thorough investigation of CVE-2021-44228 within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.

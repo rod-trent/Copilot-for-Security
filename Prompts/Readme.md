@@ -32,4 +32,18 @@ This folder contains prompt examples and templates for use with Copilot for Secu
 
 # Templates
 
-* Defender
+* General
+  
+* Defender XDR
+
+* Entra
+
+* Intune
+
+* MDO
+
+* MDTI
+
+* Purview
+
+* Sentinel

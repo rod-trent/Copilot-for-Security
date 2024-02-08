@@ -8,8 +8,6 @@ Want to learn more? See: <a href="https://rodtrent.substack.com/p/prompt-enginee
 
 This folder contains prompt examples and templates for use with Copilot for Security to provide ideas to build on to create your own.
 
-Here are the provided links organized into markdown tables for better readability:
-
 ### Examples
 
 | Plugin | Link |

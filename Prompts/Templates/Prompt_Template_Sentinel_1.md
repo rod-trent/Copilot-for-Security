@@ -1,4 +1,4 @@
-Certainly! Here's a template for generating successful prompts for Copilot for Security, tailored for use with Microsoft Sentinel:
+Here's a template for generating successful prompts for Copilot for Security, tailored for use with Microsoft Sentinel:
 
 ```markdown
 ## Microsoft Sentinel Security Prompt Template

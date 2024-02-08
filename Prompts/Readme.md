@@ -1,4 +1,4 @@
-# Copilot for Security Prompt Samples and Templates
+# Copilot for Security Prompt Samples, Templates, and Promptbooks
 
 Prompt engineering is the process of writing, refining and optimizing inputs, or "prompts", to encourage generative artificial intelligence (AI) systems to create specific, high-quality outputs. Prompt engineering helps generative AI models better comprehend and respond to a wide range of queries, from the simple to the highly technical. The basic rule is that good prompts equal good results.
 

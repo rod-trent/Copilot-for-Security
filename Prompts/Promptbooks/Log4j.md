@@ -1,3 +1,5 @@
+# Log4j
+
 Required Plugins: -*insert plugin names required for this content*-
 
 To expose CVE-2021-44228 in an environment using Copilot for Security, you could use the following series of prompts:

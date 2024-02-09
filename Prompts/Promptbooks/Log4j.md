@@ -16,7 +16,7 @@ To expose CVE-2021-44228 in an environment using Copilot for Security, you could
 
 3. **Review Configuration Settings**:
    ```
-   Show configuration settings of Log4j on all affected systems to check for vulnerable patterns.
+   How do I show configuration settings of Log4j on all affected systems to check for vulnerable patterns?
    ```
 
 4. **Analyze Network Traffic**:

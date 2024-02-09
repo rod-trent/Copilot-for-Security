@@ -1,3 +1,5 @@
+# Promptbook Template Example (how it looks)
+
 To expose a <insert activity> in an environment using Copilot for Security, you could use the following series of prompts:
 
 1. **1st prompt description**:
@@ -27,7 +29,7 @@ To expose a <insert activity> in an environment using Copilot for Security, you 
 
 These prompts are designed to guide Copilot for Security through a <insert activity> within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.
 
-Markdown code:
+# Markdown code:
 //
 To expose a <insert activity> in an environment using Copilot for Security, you could use the following series of prompts:
 

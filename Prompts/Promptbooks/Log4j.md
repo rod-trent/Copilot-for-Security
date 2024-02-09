@@ -49,9 +49,5 @@ To expose CVE-2021-44228 in an environment using Copilot for Security, you could
    How do I audit all external dependencies for use of the affected Log4j versions and document findings?
    ```
 
-10. **Generate Incident Report**:
-    ```
-    Generate a detailed incident report for any signs of CVE-2021-44228 exploitation in our environment.
-    ```
 
 These prompts are designed to guide Copilot for Security through a thorough investigation of CVE-2021-44228 within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.

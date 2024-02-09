@@ -21,7 +21,7 @@ To expose a brute force attack in an environment using Copilot for Security, you
 
 4. **Assess Password Complexity**:
    ```
-   Review password strength policies and report any accounts with passwords that do not meet the required complexity standards.
+   How do I review password strength policies and report any accounts with passwords that do not meet the required complexity standards.
    ```
 
 These prompts are designed to help identify potential brute force attack vectors by analyzing login data, account lockouts, and password policies. It's important to regularly monitor and adjust these prompts based on the evolving nature of cyber threats.

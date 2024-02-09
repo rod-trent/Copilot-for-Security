@@ -10,6 +10,8 @@ Download the following for a Markdown template to use for generating your own Pr
 
 # Promptbook Template Example (how it looks)
 
+Required Plugins: <insert plugin names required for this content>
+
 To expose <insert activity> in an environment using Copilot for Security, you could use the following series of prompts:
 
 1. **1st prompt description**:

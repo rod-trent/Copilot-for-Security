@@ -4,7 +4,7 @@ Each of the "Promptbooks" in this folder represents a specific threat. These are
 
 # Promptbook Template Example Code
 
-Create your own and share it with the world.
+Create your own and share it with the world. Hey, we're all in this together.
 
 Download the following for a Markdown template to use for generating your own Promptbooks: https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Markdown_Prompt_Template.txt
 

@@ -50,7 +50,10 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 
 | Promptbook | Link |
 | -------- | ---- |
+| Brute Force Attack | [Brute Force Attack](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Brute_Force_Attack.md) |  
 | Log4j | [Log4j](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Log4j.md) |  
+| Malware Attack | [Malware Attack](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Malware_Attack.md) |  
+| Phishing Campaign | [Phishing Campaign](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Phishing_Campaign.md) |  
 
 </td>
 </tr>

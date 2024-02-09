@@ -26,7 +26,7 @@ To expose a phishing campaign in an environment using Copilot for Security, you 
 
 5. **Behavioral analysis**:
    ```
-   Highlight any unusual access patterns in system logs that may indicate a successful phishing attempt.
+   Highlight any unusual access patterns that may indicate a successful phishing attempt.
    ```
 
 These prompts are designed to guide Copilot for Security through a phishing campaign within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.

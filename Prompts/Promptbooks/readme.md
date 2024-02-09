@@ -12,7 +12,7 @@ Download the following for a Markdown template to use for generating your own Pr
 
 Required Plugins: -*insert plugin names required for this content*-
 
-To expose -insert activity- in an environment using Copilot for Security, you could use the following series of prompts:
+To expose -*insert activity*- in an environment using Copilot for Security, you could use the following series of prompts:
 
 1. **1st prompt description**:
    ```
@@ -39,6 +39,6 @@ To expose -insert activity- in an environment using Copilot for Security, you co
    5th prompt to use with copy/paste
    ```
 
-These prompts are designed to guide Copilot for Security through -insert activity- within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.
+These prompts are designed to guide Copilot for Security through -*insert activity*- within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.
 
 

@@ -1,6 +1,6 @@
 # Brute Force Attack
 
-Required Plugin(s): Entra, Natural Language to Defender 365 KQL
+Required Plugin(s): *Entra, Natural Language to Defender 365 KQL*
 
 To expose a brute force attack in an environment using Copilot for Security, you could use the following series of prompts:
 

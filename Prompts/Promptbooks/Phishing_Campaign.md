@@ -16,7 +16,7 @@ To expose a phishing campaign in an environment using Copilot for Security, you 
 
 3. **Check sender reputation**:
    ```
-   Cross-reference the senders of the last 50 external emails with a database of known phishing attackers.
+   Cross-reference the senders of the last 50 external emails with known phishing attackers.
    ```
 
 4. **Attachment analysis**:

@@ -1,3 +1,5 @@
+# Brute Force Attack
+
 Required Plugins: -*insert plugin names required for this content*-
 
 To expose a brute force attack in an environment using Copilot for Security, you could use the following series of prompts:

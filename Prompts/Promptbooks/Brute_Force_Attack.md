@@ -6,7 +6,7 @@ To expose a brute force attack in an environment using Copilot for Security, you
 
 1. **Monitor Access Attempts**:
    ```
-   Show me a log of all failed access attempts within the last 24 hours.
+   Show me all failed access attempts within the last 24 hours.
    ```
 
 2. **Analyze Account Lockouts**:

@@ -1,3 +1,5 @@
+# Cross Site Scripting (XSS) Attack
+
 Required Plugins: -*insert plugin names required for this content*-
 
 Here's a series of prompts that could be used for detecting and mitigating a Cross-Site Scripting (XSS) attack:

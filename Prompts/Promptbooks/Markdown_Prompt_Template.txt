@@ -1,4 +1,4 @@
-# Activity Title
+# Promptbook Activity Title
 
 Required Plugins: -*insert plugin names required for this content*-
 

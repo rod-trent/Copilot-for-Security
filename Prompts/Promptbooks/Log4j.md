@@ -1,6 +1,6 @@
 # Log4j
 
-Required Plugins: *Natural Language to Defender 365 KQL, Defender External Attack Surface Management, Generic, Natural Language to Sentinel KQL, Entra*
+Required Plugins: *Natural Language to Defender 365 KQL, Defender External Attack Surface Management, Generic, Natural Language to Sentinel KQL, Entra, Microsoft 365 Defender*
 
 To expose CVE-2021-44228 in an environment using Copilot for Security, you could use the following series of prompts:
 

@@ -1,6 +1,6 @@
 # Brute Force Attack
 
-Required Plugins: Entra
+Required Plugin(s): Entra
 
 To expose a brute force attack in an environment using Copilot for Security, you could use the following series of prompts:
 

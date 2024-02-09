@@ -1,6 +1,6 @@
 # Phishing Campaign
 
-Required Plugins: *Natural Language to Defender 365 KQL*
+Required Plugins: *Natural Language to Defender 365 KQL, Generic*
 
 To expose a phishing campaign in an environment using Copilot for Security, you could use the following series of prompts:
 

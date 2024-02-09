@@ -1,13 +1,15 @@
 Here's a series of prompts that could be used for detecting and mitigating a Cross-Site Scripting (XSS) attack:
 
 1. **Detect Potential XSS Vulnerabilities:**
-  ```
+```
    - "Identify any use of `innerHTML`, `document.write`, or `outerHTML` in the codebase."
+```
 ```
    - "Scan for any instances where user input is directly included in the DOM without sanitization."
 ```
+```
    - "Check for any use of `eval()` or `setTimeout()`/`setInterval()` with user-controlled inputs."
-  ```
+```
 3. **Review and Sanitize Inputs:**
 ```
    - "Apply input validation to ensure only expected data types and formats are accepted."

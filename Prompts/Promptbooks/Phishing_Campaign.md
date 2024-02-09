@@ -21,7 +21,7 @@ To expose a phishing campaign in an environment using Copilot for Security, you 
 
 4. **Attachment analysis**:
    ```
-   Scan attachments from emails flagged as suspicious for malware signatures.
+   How do I scan attachments from emails flagged as suspicious for malware signatures?
    ```
 
 5. **Behavioral analysis**:

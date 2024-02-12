@@ -1,3 +1,9 @@
+Tanium Copilot Prompts:
+Synonyms:
+•	List / Show / Show me
+•	Endpoint(s) / Device(s) / Computer(s)
+
+
 ```
 Tell me what computers are affected by CVE-2023-36805 and what patches are required. group them by OS platform in table format
 ```

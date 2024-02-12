@@ -1,10 +1,4 @@
-## Tanium Copilot Prompts Legend 
-
-Synonyms:
-*	List / Show / Show me
-* Endpoint(s) / Device(s) / Computer(s)
----
-
+# General Prompts:
 ```
 Tell me what computers are affected by CVE-2023-36805 and what patches are required. group them by OS platform in table format
 ```
@@ -21,6 +15,11 @@ What is the status of patch deployment for computer Win11-x64?
 Show me the systems that have log4j in their SBOM report, present the findings in a table
 ```
 ---
+## Tanium Copilot Prompts Legend 
+
+Synonyms:
+*	List / Show / Show me
+* Endpoint(s) / Device(s) / Computer(s)
 # Incident Response Process Prompts:
 ```
 [List|Show] the endpoints that are running a process with the [process name|file name] <name>

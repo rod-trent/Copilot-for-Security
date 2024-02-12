@@ -22,6 +22,7 @@ Show me the systems that have log4j in their SBOM report, present the findings i
 ```
 ---
 # Incident Response Process Prompts:
+```
 [List|Show] the endpoints that are running a process with the [process name|file name] <name>
 ```
 ---

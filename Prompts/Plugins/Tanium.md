@@ -1,4 +1,4 @@
-# Tanium Copilot Prompts Legend 
+## Tanium Copilot Prompts Legend 
 
 Synonyms:
 *	List / Show / Show me
@@ -41,7 +41,6 @@ Show me the systems that have log4j in their SBOM report, present the findings i
 ```
 [Show me the|How many] different versions of <executable> [are] [present] on my endpoints.  Show results in a table.
 ```
----
 # Vulnerability Prompts:
 ```
 [List|Show] the endpoints that have vulnerability <CVE-YYYY-XXXXX>. Show results in a table format.

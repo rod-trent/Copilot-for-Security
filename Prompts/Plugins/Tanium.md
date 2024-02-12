@@ -42,12 +42,19 @@ Show me the systems that have log4j in their SBOM report, present the findings i
 [Show me the|How many] different versions of <executable> [are] [present] on my endpoints.  Show results in a table.
 ```
 ---
-```
 # Vulnerability Prompts:
+```
 [List|Show] the endpoints that have vulnerability <CVE-YYYY-XXXXX>. Show results in a table format.
+```
+---
+```
 [List|Show] the endpoints that have a software package for <package name>. show results in a table format.
+```
+---
+```
 [How many|Which] endpoints have <application name> and <version number> [installed]? Show results in a table format. 
 ---
+```
 # Promptbook flow example:
 ```
 Show me the details of Defender Incident 43

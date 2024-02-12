@@ -1,7 +1,8 @@
-Tanium Copilot Prompts:
+# Tanium Copilot Prompts Legend 
+
 Synonyms:
-•	List / Show / Show me
-•	Endpoint(s) / Device(s) / Computer(s)
+*	List / Show / Show me
+* Endpoint(s) / Device(s) / Computer(s)
 
 
 ```

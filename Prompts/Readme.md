@@ -57,7 +57,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Suspicious script analysis](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Suspicious_Script.md) |
 | [Vulnerability impact assessment](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Vulnerability_Assessment.md) |
 | [Incident Prioritization](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Incident_Prioritization.md) |
-<br>
+| [Sentinel Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Sentinel_Investigation.md) |
 <br>
 <br>
 <br>

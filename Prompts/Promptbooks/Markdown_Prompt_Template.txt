@@ -24,7 +24,7 @@ To expose a -*insert activity*- in an environment using Copilot for Security, yo
    4th prompt to use with copy/paste
    ```
 
-5. **4th prompt description**:
+5. **5th prompt description**:
    ```
    5th prompt to use with copy/paste
    ```

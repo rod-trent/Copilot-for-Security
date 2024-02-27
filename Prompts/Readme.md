@@ -18,7 +18,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 
 | Plugin | Link |
 | ------ | ---- |
-| General | [General](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/General.md) |
+| [General](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/General.md) |
 | Defender XDR | [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md) |
 | Entra | [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md) |
 | Intune | [Intune](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Intune.md) |

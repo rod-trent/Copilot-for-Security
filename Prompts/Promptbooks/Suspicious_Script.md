@@ -1,8 +1,8 @@
 # Suspicious script analysis
 
-Required Plugin(s): -General-
+Required Plugin(s): *General*
 
-To expose a -Suspicious script analysis- in an environment using Copilot for Security, you could use the following series of prompts:
+To expose a *Suspicious script analysis* in an environment using Copilot for Security, you could use the following series of prompts:
 
 1. **Supply the script snippit and request information about it**:
    ```
@@ -39,4 +39,4 @@ To expose a -Suspicious script analysis- in an environment using Copilot for Sec
    Write me a report that summarizes the findings from the investigation. It should be suitable for a non-technical audience.
    ```
 
-These prompts are designed to guide Copilot for Security through a -Suspicious script analysis- within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.
+These prompts are designed to guide Copilot for Security through a *Suspicious script analysis* within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.

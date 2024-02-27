@@ -31,9 +31,9 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 * Joey Cruz' Copilot for Security repo: https://github.com/iamjoeycruz/securitycopilot
 * Microsoft Learn path for Copilot for Security: https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/
 * Weekly Sentinel, Defender, and Azure OpenAI newsletters:
-** Sentinel: https://sentinelthisweek.substack.com/
-** Defender: https://microsoftdefender.substack.com/
-** Azure OpenAI: https://azureopenai.substack.com/  
+    Sentinel: https://sentinelthisweek.substack.com/
+    Defender: https://microsoftdefender.substack.com/
+    Azure OpenAI: https://azureopenai.substack.com/  
   
 
 

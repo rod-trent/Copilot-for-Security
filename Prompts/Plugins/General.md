@@ -1,4 +1,9 @@
 ```
+Check if <USER_UPN> is a risky user?
+```
+---
+
+```
 The following script was found as part of a potential security incident. Explain what this script does step by step and infer the intent. Also note any actions expressed that could be malicious in nature, including destructive activities, stealing of information, or changing of sensitive settings: <SNIPPET>
 ```
 ---

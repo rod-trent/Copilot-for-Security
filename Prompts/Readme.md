@@ -58,6 +58,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Vulnerability impact assessment](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Vulnerability_Assessment.md) |
 | [Incident Prioritization](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Incident_Prioritization.md) |
 | [Sentinel Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Sentinel_Investigation.md) |
+| [Defender Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/365_Defender_Investigation.md) |
 <br>
 <br>
 <br>

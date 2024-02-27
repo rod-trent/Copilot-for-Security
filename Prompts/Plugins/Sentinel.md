@@ -30,3 +30,7 @@ Write an executive report summarizing this investigation. It should be suited fo
 Generate and Run Sentinel Hunting Queries
 ```
 ---
+```
+How many high priority Sentinel incidents were created in the last 12 hours?
+```
+---

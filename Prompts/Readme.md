@@ -16,45 +16,45 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 
 ### Examples
 
-| Plugin | Link |
-| ------ | ---- |
+| Plugin |
+| ------ |
 | [General](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/General.md) |
-| Defender XDR | [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md) |
-| Entra | [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md) |
-| Intune | [Intune](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Intune.md) |
-| MDO | MDO |
-| MDTI | [MDTI](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/MDTI.md) |
-| Purview | [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Purview.md) |
-| Sentinel | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Sentinel.md) |
-| ServiceNow | [ServiceNow](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/ServiceNow.md) |
-| Tanium | [Tanium](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Tanium.md) |
+| [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md) |
+| [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md) |
+| [Intune](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Intune.md) |
+| MDO |
+| [MDTI](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/MDTI.md) |
+| [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Purview.md) |
+| [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Sentinel.md) |
+| [ServiceNow](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/ServiceNow.md) |
+| [Tanium](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Tanium.md) |
 
 </td>
 <td>
 
 ### Templates
 
-| Template | Link |
-| -------- | ---- |
-| General | [General](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_General_1.md) |
-| Defender XDR | [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Defender_XDR_1.md) |
-| Entra | [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Entra_1.md) |
-| Intune | [Intune](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Intune_1.md) |
-| MDO | [MDO](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDO_1.md) |
-| MDTI | [MDTI](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDTI_1.md) |
-| Purview | [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Purview_1.md) |
-| Sentinel | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md) |
+| Template |
+| -------- |
+| [General](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_General_1.md) |
+| [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Defender_XDR_1.md) |
+| [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Entra_1.md) |
+| [Intune](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Intune_1.md) |
+| [MDO](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDO_1.md) |
+| [MDTI](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_MDTI_1.md) |
+| [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Purview_1.md) |
+| [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md) |
 
 </td>
 <td>
 
 ### Promptbooks
 
-| Promptbook | Link |
-| -------- | ---- |
-| Risky User | [Risky User](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Risky_User.md) |
-| Suspicious script analysis | [Suspicious script analysis](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Suspicious_Script.md) |
-| Vulnerability impact assessment | [Vulnerability impact assessment](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Vulnerability_Assessment.md) |
+| Promptbook |
+| -------- |
+| [Risky User](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Risky_User.md) |
+| [Suspicious script analysis](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Suspicious_Script.md) |
+| [Vulnerability impact assessment](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Vulnerability_Assessment.md) |
 
 </td>
 </tr>

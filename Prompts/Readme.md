@@ -50,7 +50,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 
 | Promptbook | Link |
 | -------- | ---- |
-
+| Risky User | [Risky User](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Risky_User.md) |
 
 </td>
 </tr>

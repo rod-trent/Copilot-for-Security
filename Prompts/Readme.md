@@ -59,7 +59,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Incident Prioritization](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Incident_Prioritization.md) |
 | [Sentinel Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Sentinel_Investigation.md) |
 | [Defender Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/365_Defender_Investigation.md) |
-<br>
+| [Service Now Incident](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Service_Now_Enrichment.md) |
 <br>
 <br>
 <br>

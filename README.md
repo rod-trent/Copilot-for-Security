@@ -25,5 +25,18 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 
 <b>Q:</b> Are there any prompt examples that I can use as templates?<br>
 <b>A:</b> Yes. See: https://github.com/rod-trent/Security-Copilot/tree/main/Prompts<br>
+
+<b>Q:</b> What resources are available to get familiar with Copilot for Security?<br>
+<b>A:</b> There are several resources being maintained to help learn Copilot for Security. Here's a few (I'll add more as they are discovered):
+* Joey Cruz' Copilot for Security repo: https://github.com/iamjoeycruz/securitycopilot
+* Microsoft Learn path for Copilot for Security: https://learn.microsoft.com/en-us/training/paths/security-copilot-and-ai/
+* Weekly Sentinel, Defender, and Azure OpenAI newsletters:
+** Sentinel: https://sentinelthisweek.substack.com/
+** Defender: https://microsoftdefender.substack.com/
+** Azure OpenAI: https://azureopenai.substack.com/  
+  
+
+
+<br>
 <br><br>
 

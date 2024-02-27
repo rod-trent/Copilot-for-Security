@@ -1,4 +1,4 @@
-Certainly! Here's a template for generating successful prompts for Copilot for Security, specifically designed for Microsoft Defender for Office:
+Here's a template for generating successful prompts for Copilot for Security, specifically designed for Microsoft Defender for Office:
 
 ```markdown
 ## Microsoft Defender for Office Security Prompt Template

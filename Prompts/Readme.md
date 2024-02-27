@@ -63,7 +63,6 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Service Now Incident](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Service_Now_Enrichment.md) |
 | [Threat actor profile](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Threat_actor_profile.md) |
 <br>
-<br>
 </td>
 </tr>
 </table>

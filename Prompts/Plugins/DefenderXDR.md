@@ -1,6 +1,6 @@
 ```
-Summarize recent threat intelligence.
 ---
+Summarize recent threat intelligence.
 ```
 Summarize Defender incident <DEFENDER_INCIDENT_ID>.
 ```

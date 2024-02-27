@@ -1,4 +1,8 @@
 ```
+The following script was found as part of a potential security incident. Explain what this script does step by step and infer the intent. Also note any actions expressed that could be malicious in nature, including destructive activities, stealing of information, or changing of sensitive settings: <SNIPPET>
+```
+---
+```
 Analyze a recent phishing email trend and suggest mitigation strategies.
 ```
 ---

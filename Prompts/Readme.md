@@ -53,6 +53,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | Promptbook | Link |
 | -------- | ---- |
 | Risky User | [Risky User](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Risky_User.md) |
+| Suspicious script analysis | [Suspicious script analysis](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Suspicious_Script.md) |
 
 </td>
 </tr>

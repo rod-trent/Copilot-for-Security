@@ -60,7 +60,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Sentinel Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Sentinel_Investigation.md) |
 | [Defender Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/365_Defender_Investigation.md) |
 | [Service Now Incident](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Service_Now_Enrichment.md) |
-<br>
+| [Threat actor profile](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Threat_actor_profile.md) |
 <br>
 <br>
 <br>

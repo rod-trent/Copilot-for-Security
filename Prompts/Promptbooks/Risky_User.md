@@ -1,8 +1,8 @@
 # Promptbook Activity Title
 
-Required Plugin(s): -*General*-
+Required Plugin(s): *General*
 
-To expose a -*Risky User*- in an environment using Copilot for Security, you could use the following series of prompts:
+To expose a *Risky User* in an environment using Copilot for Security, you could use the following series of prompts:
 
 1. **Identify if a user is risky or not**:
    ```
@@ -29,4 +29,4 @@ To expose a -*Risky User*- in an environment using Copilot for Security, you cou
    What additional security methods can be invoked to take down the user from the risky user list?
    ```
 
-These prompts are designed to guide Copilot for Security through a -*Risky User*- within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.
+These prompts are designed to guide Copilot for Security through a *Risky User* within an environment, from initial identification to detailed reporting. Remember to tailor these prompts to fit the specific context and systems of your organization.

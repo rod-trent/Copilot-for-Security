@@ -46,7 +46,6 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Templates/Prompt_Template_Sentinel_1.md) |
 <br>
 <br>
-<br>
 </td>
 <td>
 
@@ -57,7 +56,10 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Risky User](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Risky_User.md) |
 | [Suspicious script analysis](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Suspicious_Script.md) |
 | [Vulnerability impact assessment](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Vulnerability_Assessment.md) |
-
+<br>
+<br>
+<br>
+<br>
 </td>
 </tr>
 </table>

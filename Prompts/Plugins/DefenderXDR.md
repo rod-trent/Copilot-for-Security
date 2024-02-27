@@ -58,3 +58,7 @@ Show me a list of devices that copied data to a USB drive in the last week.
 Based on the above email investigation, summarize this investigation with all the investigation steps that taken during this session share also supported evidence and let me know if this is a phishing email, also share certainty percentage: if the email is not suspicious give it 0-30% if it medium suspicious for phishing give it 30%-74% and if its high suspicious as phishing give it 75%-100%, allways include suspicious certainty percentage.
 ```
 ---
+```
+Show me all Defender incidents involving <user>
+```
+---

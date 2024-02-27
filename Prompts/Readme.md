@@ -63,7 +63,6 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Threat actor profile](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Threat_actor_profile.md) |
 <br>
 <br>
-<br>
 </td>
 </tr>
 </table>

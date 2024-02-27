@@ -53,6 +53,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 
 | Promptbook |
 | -------- |
+| [Template](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Markdown_Prompt_Template.txt) |
 | [Risky User](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Risky_User.md) |
 | [Suspicious script analysis](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Suspicious_Script.md) |
 | [Vulnerability impact assessment](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Vulnerability_Assessment.md) |

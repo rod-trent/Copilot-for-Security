@@ -95,3 +95,7 @@ Which are the most active nation state actors?
 Summarize recent threat intelligence.
 ```
 ---
+```
+How do I detect a Brute Force attack in my environment?
+```
+---

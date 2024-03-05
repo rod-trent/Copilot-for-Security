@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<img src="https://github.com/rod-trent/Security-Copilot/blob/main/Images/madpromptsonelinewithandroidheadsmall.png?raw=true" alt="Mad Prompts">
+<style>
+  .sentence { margin-bottom: 20px; }
+  .word { display: inline-block; padding: 5px; margin: 2px; background-color: #f0f0f0; cursor: move; }
+  .blank { display: inline-block; width: 100px; height: 18px; padding: 5px; margin: 2px; border: 1px solid #999; }
+</style>
+</head>
+<body>
+
+<h1>Learning Prompting for Copilot for Security</h1>
+
+<h4>Drag and Drop to Fill in the Blanks</h4>
+
+<br>
+
+<div id="words">
+  <span class="word" draggable="true" id="word1">phishing</span>
+  <span class="word" draggable="true" id="word2">Lee Majors</span>
+  <span class="word" draggable="true" id="word3">cookie monster</span>
+  <span class="word" draggable="true" id="word4">godzilla</span>
+  <span class="word" draggable="true" id="word5">mitigation</span>
+</div>
+
+<div class="sentence">
+  Analyze a recent <div class="blank" ondrop="drop(event)" ondragover="allowDrop(event)"></div> email trend and suggest <div class="blank" ondrop="drop(event)" ondragover="allowDrop(event)"></div> strategies.
+</div>
+<br>
+<div id="words">
+  <span class="word" draggable="true" id="word6">intel</span>
+  <span class="word" draggable="true" id="word7">Jaime Somers</span>
+  <span class="word" draggable="true" id="word8">Oscar the Grouch</span>
+  <span class="word" draggable="true" id="word9">Hazel</span>
+  <span class="word" draggable="true" id="word10">intelligence</span>
+</div>
+
+
+<div class="sentence">
+  Show me the <div class="blank" ondrop="drop(event)" ondragover="allowDrop(event)"></div> profile for <div class="blank" ondrop="drop(event)" ondragover="allowDrop(event)"></div> Sandstorm.
+</div>
+
+<script>
+function allowDrop(ev) {
+  ev.preventDefault();
+}
+
+function drag(ev) {
+  ev.dataTransfer.setData("text", ev.target.id);
+}
+
+function drop(ev) {
+  ev.preventDefault();
+  var data = ev.dataTransfer.getData("text");
+  ev.target.appendChild(document.getElementById(data));
+}
+
+// Add the dragstart event listener to words
+document.querySelectorAll('.word').forEach(word => {
+  word.addEventListener('dragstart', drag);
+});
+</script>
+
+<button onClick="window.location.reload();">Reset</button>
+</body>
+</html>

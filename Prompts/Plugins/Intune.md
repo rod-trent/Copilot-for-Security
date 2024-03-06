@@ -1,3 +1,5 @@
+Prompts on this page require the Intune plugin to work.
+
 ```
 Describe the Intune policy: "Search and start menu restrict - POC"
 ```

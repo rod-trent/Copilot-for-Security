@@ -1,3 +1,5 @@
+Prompts on this page require the Microsoft Sentinel plugin to work.
+
 ```
 Summarize Sentinel incident <SENTINEL_INCIDENT_ID>
 ```

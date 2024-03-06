@@ -1,3 +1,5 @@
+Prompts on this page require the Tanium plugin to work.
+
 # General Prompts:
 ```
 Tell me what computers are affected by CVE-2023-36805 and what patches are required. Group them by OS platform in table format

@@ -1,3 +1,5 @@
+Prompts on this page require the Entra plugin to work.
+
 ```
 Tell me about Lee Majors most recent failed sign-in
 ```

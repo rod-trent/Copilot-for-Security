@@ -16,7 +16,9 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 * <a href="https://rodtrent.substack.com/p/accessing-microsoft-security-copilot" target="_blank">Accessing Microsoft Security Copilot Promptbooks</a> - <i>Posted January 8, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/ui-components-of-microsoft-security" target="_blank">UI Components of Microsoft Security Copilot</a> - <i>Posted January 9, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/the-ways-microsoft-security-copilot-905" target="_blank">The Ways Microsoft Copilot for Security Can Enhance Security Operations with Microsoft Purview</a> - <i>Posted February 9, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/brief-copilot-for-security-as-a-tool" target="_blank">Brief: Copilot for Security as a Tool for Threat Hunting</a> - <i>Posted February 14, 2024</i><br>
 * <a href="https://www.microsoft.com/en-us/security/blog/2024/02/21/get-the-most-out-of-microsoft-copilot-for-security-with-good-prompt-engineering/" target="_blank">Get the most out of Microsoft Copilot for Security with good prompt engineering</a> - <i>Posted February 21, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/introduction-to-mad-prompts-copilot" target="_blank">Introduction to Mad Prompts: Copilot for Security is a blank</a> - <i>Posted March 4, 2024</i><br>
 * <a href="https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/improving-threat-hunting-efficiency-using-copilot-for-security/ba-p/4077527" target="_blank">Improving Threat Hunting Efficiency using Copilot for Security</a> - <i>Posted March 7, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/brief-mdti-and-copilot-for-security" target="_blank">Brief: MDTI and Copilot for Security</a> - <i>Posted March 8, 2024</i><br>
 

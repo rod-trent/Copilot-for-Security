@@ -21,6 +21,9 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 * <a href="https://rodtrent.substack.com/p/introduction-to-mad-prompts-copilot" target="_blank">Introduction to Mad Prompts: Copilot for Security is a blank</a> - <i>Posted March 4, 2024</i><br>
 * <a href="https://techcommunity.microsoft.com/t5/microsoft-security-copilot-blog/improving-threat-hunting-efficiency-using-copilot-for-security/ba-p/4077527" target="_blank">Improving Threat Hunting Efficiency using Copilot for Security</a> - <i>Posted March 7, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/brief-mdti-and-copilot-for-security" target="_blank">Brief: MDTI and Copilot for Security</a> - <i>Posted March 8, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/tip-running-copilot-for-security" target="_blank">Tip: Running Copilot for Security in the Microsoft Edge Sidebar for Quick Access</a> - <i>Posted March 12, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/copilot-for-security-a-game-changer" target="_blank">Copilot for Security: A Game-Changer for Security Experts</a> - <i>Posted March 19, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/how-microsoft-copilot-for-security" target="_blank">How Microsoft Copilot for Security Empowers Security Novices</a> - <i>Posted March 20, 2024</i><br>
 
 
 ## FAQ<br>

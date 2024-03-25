@@ -62,3 +62,7 @@ Write me an executive summary report for the vulnerability, threat actor insight
 Give me a profile summary of <THREATACTORNAME>.
 ```
 ---
+```
+List the top 5 current threat indicators and supply links to more information for each.
+```
+---

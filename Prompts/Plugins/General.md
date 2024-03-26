@@ -103,3 +103,7 @@ How do I detect a Brute Force attack in my environment?
 What is known about the reputation of the following URL <URL>? Is it malicious, if so why?
 ```
 ---
+```
+Analyze the following script: <insert script>
+```
+---

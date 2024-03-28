@@ -1,4 +1,4 @@
-# Promptbook Activity Title
+# Risky User
 
 Required Plugin(s): *General*
 

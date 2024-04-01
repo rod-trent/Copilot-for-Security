@@ -1,4 +1,4 @@
-//Identifies when Copilot for Security SCUs have been created, added or changed in the AzureActivity table
+//Identifies when Copilot for Security SCUs have been created or changed in the AzureActivity table
 
 AzureActivity
 | where OperationNameValue == "MICROSOFT.SECURITYCOPILOT/CAPACITIES/WRITE"

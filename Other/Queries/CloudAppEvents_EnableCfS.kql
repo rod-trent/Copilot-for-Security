@@ -1,0 +1,5 @@
+//Identify enabling Copilot for Security in the CloudAppEvents log
+
+CloudAppEvents
+| where ActionType == "Register Microsoft.SecurityCopilot"
+| project AccountDisplayName, City, CountryCode, ISP, ObjectName

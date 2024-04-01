@@ -1,0 +1,5 @@
+//Identify enabling Copilot for Security in the AzureActivity table
+
+AzureActivity
+| where OperationNameValue == "MICROSOFT.SECURITYCOPILOT/REGISTER/ACTION"
+| project Caller, CallerIpAddress, ResourceGroup

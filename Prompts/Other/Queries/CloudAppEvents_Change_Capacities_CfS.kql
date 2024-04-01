@@ -1,4 +1,4 @@
-//Identifies when Copilot for Security SCUs have been created, added or changed in the CloudAppEvents table
+//Identifies when Copilot for Security SCUs have been created changed in the CloudAppEvents table
 
 CloudAppEvents
 | where ActionType == "Write Capacities"

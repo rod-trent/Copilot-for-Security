@@ -1,0 +1,5 @@
+//Identifies when Copilot for Security SCUs have been created changed in the CloudAppEvents table
+
+CloudAppEvents
+| where ActionType == "Write Capacities"
+| project AccountDisplayName, City, CountryCode, ISP, ObjectName

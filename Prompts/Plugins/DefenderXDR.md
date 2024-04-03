@@ -64,3 +64,8 @@ Based on the above email investigation, summarize this investigation with all th
 Show me all Defender incidents involving <user>
 ```
 ---
+```
+Compare Defender Incidents <number> and <number>
+```
+---
+

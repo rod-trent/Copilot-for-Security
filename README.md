@@ -24,6 +24,14 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 * <a href="https://rodtrent.substack.com/p/tip-running-copilot-for-security" target="_blank">Tip: Running Copilot for Security in the Microsoft Edge Sidebar for Quick Access</a> - <i>Posted March 12, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/copilot-for-security-a-game-changer" target="_blank">Copilot for Security: A Game-Changer for Security Experts</a> - <i>Posted March 19, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/how-microsoft-copilot-for-security" target="_blank">How Microsoft Copilot for Security Empowers Security Novices</a> - <i>Posted March 20, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/brief-adjusting-access-to-custom" target="_blank">Brief: Adjusting Access to Custom Plugin Management in Copilot for Security</a> - <i>Posted March 26, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/brief-standalone-versus-embedded" target="_blank">Brief: Standalone and Embedded Copilot for Security Experiences</a> - <i>Posted March 27, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/brief-copilot-for-security-is-two" target="_blank">Brief: Copilot for Security is Two Experiences but One Connected Service</a> - <i>Posted March 28, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/helping-build-a-better-copilot-for" target="_blank">Creating Promptbooks in Copilot for Security</a> - <i>Posted April 2, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/helping-build-a-better-copilot-for" target="_blank">Helping Build a Better Copilot for Security</a> - <i>Posted April 2, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/limiting-access-to-copilot-for-security" target="_blank">Limiting Access to Copilot for Security to the Wider Web</a> - <i>Posted April 3, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/creating-a-copilot-for-security-kql" target="_blank">Creating a Copilot for Security KQL Plugin to Query Sentinel Watchlists</a> - <i>Posted April 3, 2024</i><br>
+
 
 
 ## FAQ<br>

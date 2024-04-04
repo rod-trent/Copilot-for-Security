@@ -31,6 +31,7 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 * <a href="https://rodtrent.substack.com/p/helping-build-a-better-copilot-for" target="_blank">Helping Build a Better Copilot for Security</a> - <i>Posted April 2, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/limiting-access-to-copilot-for-security" target="_blank">Limiting Access to Copilot for Security to the Wider Web</a> - <i>Posted April 3, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/creating-a-copilot-for-security-kql" target="_blank">Creating a Copilot for Security KQL Plugin to Query Sentinel Watchlists</a> - <i>Posted April 3, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/brief-two-places-to-access-copilot" target="_blank">Brief: Two Places to Access Copilot for Security Promptbooks</a> - <i>Posted April 4, 2024</i><br>
 
 
 

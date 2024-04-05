@@ -1,0 +1,8 @@
+//Run in Azure Resource Graph Explorer
+
+resources
+| where type == "microsoft.securitycopilot/capacities"
+| extend GEO = tostring(properties['geo'])
+| extend NumberofSCUs = tostring(properties['numberOfUnits'])
+| extend State = tostring(properties['provisioningState'])
+| project ComputeName = name, location, resourceGroup, ['type'], NumberofSCUs, GEO, State, subscriptionId, tenantId

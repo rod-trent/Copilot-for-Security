@@ -11,7 +11,7 @@ What are some of the domain indicators for this actor
 ```
 ---
 ```
-Get me the reputations for hostname "service-logins.com"
+Get the reputations for hostname "service-logins.com"
 ```
 ---
 ```

@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 
 ```
+Have there been any failed sign-ins during the last weekend?
+```
+---
+```
 Tell me about Lee Majors most recent failed sign-in
 ```
 ---

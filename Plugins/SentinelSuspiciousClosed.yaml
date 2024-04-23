@@ -1,0 +1,19 @@
+Descriptor:
+  Name: SuspiciousSentinelClosed
+  DisplayName: Sentinel Suspicious Incidents Closed
+  Description: Retrieves the list of Sentinel suspicious Incidents that have been closed in the last 30 days.
+
+SkillGroups:
+  - Format: KQL
+    Skills:
+      - Name: SuspiciousSentinelClosed
+        DisplayName: Sentinel Suspicious Incidents Closed
+        Description: Retrieves the list of Sentinel suspicious Incidents that have been closed in the last 30 days.
+        Settings:
+          Target: Sentinel
+          TenantId: <your_tenant_ID>
+          SubscriptionId: <your_subscription_ID>
+          ResourceGroupName: <your_RG_name>
+          WorkspaceName: <your_WS_name>
+          Template: |-
+           SecurityIncident | where TimeGenerated >= 30d | where Status == "Closed" | where ClassificationReason == "SuspiciousActivity"

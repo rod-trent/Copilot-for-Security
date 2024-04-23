@@ -5,6 +5,10 @@ Summarize Sentinel incident <SENTINEL_INCIDENT_ID>
 ```
 ---
 ```
+Give me the list of Sentinel Incidents created in the last 24 hours and write an executive report summarizing Sentinel IncidentName 7e7b5932-d251-413d-a99a-38967c223371. It should be suited for a non-technical audience.
+```
+---
+```
 Tell me about the entities associated with that incident.
 ```
 ---

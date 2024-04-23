@@ -1,4 +1,6 @@
-Did you stop by looking for sample prompts, prompt templates, and Promptbooks for Copilot for Security. Go here: <a href="https://github.com/rod-trent/Security-Copilot/tree/main/Prompts" target="_blank">Copilot for Security Prompt Samples, Promptbooks, and Templates</a>
+Did you stop by this repo looking for sample prompts, prompt templates, and Promptbooks for Copilot for Security. Go here: <a href="https://github.com/rod-trent/Security-Copilot/tree/main/Prompts" target="_blank">Copilot for Security Prompt Samples, Promptbooks, and Templates</a>
+
+Want a bi-weekly digest of great, community-driven Copilot for Security content? Subscribe or follow The CfS Prompt: https://thecfsprompt.substack.com/
 
 # Must Learn Copilot for Security<br>
 

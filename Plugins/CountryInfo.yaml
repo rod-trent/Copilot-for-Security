@@ -1,14 +1,14 @@
 Descriptor:
-  Name: CountryCodes
+  Name: CountryInfo
   DisplayName: Country Codes
-  Description: Country Codes and other country information including languages, regions, TLD, currency
+  Description: Country information including country code and language and region and TLD and currency
 
 SkillGroups:
   - Format: KQL
     Skills:
-      - Name: CountryCodes
+      - Name: CountryInfo
         DisplayName: Country Codes
-        Description: Country Codes and other country information including languages, regions, TLD, currency
+        Description: Country information including country code and language and region and TLD and currency
         Settings:
           Target: Sentinel
           TenantId: <your_tenant_ID>

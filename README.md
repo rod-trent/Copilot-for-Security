@@ -35,6 +35,10 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 * <a href="https://rodtrent.substack.com/p/creating-a-copilot-for-security-kql" target="_blank">Creating a Copilot for Security KQL Plugin to Query Sentinel Watchlists</a> - <i>Posted April 3, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/brief-two-places-to-access-copilot" target="_blank">Brief: Two Places to Access Copilot for Security Promptbooks</a> - <i>Posted April 4, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/brief-where-to-adjust-copilot-for" target="_blank">Brief: Where to Adjust Copilot for Security SCUs</a> - <i>Posted April 8, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/filtering-my-sessions-in-copilot" target="_blank">Filtering My Sessions in Copilot for Security</a> - <i>Posted April 8, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/brief-getting-a-monthly-cost-for" target="_blank">Brief: Getting a Monthly Cost for Resource Email for Copilot for Security</a> - <i>Posted April 9, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/enabling-the-purview-plugin-for-copilot" target="_blank">Enabling the Purview Plugin for Copilot for Security</a> - <i>Posted April 25, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-documentation" target="_blank">Brief: How to Search Microsoft Documentation in Copilot for Security</a> - <i>Posted May 1, 2024</i><br>
 
 
 

@@ -1,13 +1,13 @@
 Descriptor:
-  Name: ATLAS
-  DisplayName: ATLAS Reference
+  Name: MITRE_ATLAS
+  DisplayName: MITRE ATLAS Reference
   Description: MITRE's Adversarial Threat Landscape for Artificial-Intelligence Systems is a knowledge base of adversary tactics and techniques against Al-enabled systems.
 
 SkillGroups:
   - Format: KQL
     Skills:
-      - Name: ATLAS
-        DisplayName: ATLAS Reference
+      - Name: MITRE_ATLAS
+        DisplayName: MITRE ATLAS Reference
         Description: MITRE's Adversarial Threat Landscape for Artificial-Intelligence Systems is a knowledge base of adversary tactics and techniques against Al-enabled systems.
         Settings:
           Target: Sentinel

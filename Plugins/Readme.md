@@ -7,3 +7,4 @@
 * <a href="https://rodtrent.substack.com/p/copilot-for-security-plugin-ip-geolocation" target="_blank">Copilot for Security Plugin: IP Geolocation</a><br>
 * <a href="https://rodtrent.substack.com/p/copilot-for-security-plugin-sentinel" target="_blank">Copilot for Security Plugin: Sentinel Table Sizes and Costs</a><br>
 * <a href="https://rodtrent.substack.com/p/copilot-for-security-plugin-bad-tables" target="_blank">Copilot for Security Plugin: Bad Tables</a><br>
+* <a href="https://rodtrent.substack.com/p/creating-a-copilot-for-security-kql" target="_blank">Creating a Copilot for Security KQL Plugin to Query Sentinel Watchlists</a><br>

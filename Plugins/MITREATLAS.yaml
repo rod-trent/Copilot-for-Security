@@ -11,9 +11,9 @@ SkillGroups:
         Description: MITRE's Adversarial Threat Landscape for Artificial-Intelligence Systems is a knowledge base of adversary tactics and techniques against Al-enabled systems.
         Settings:
           Target: Sentinel
-          TenantId: f70d46d0-7fd7-48a5-8586-e6a8199d4de5
-          SubscriptionId: 2959f496-711b-447e-9b85-53a1da341c4c
-          ResourceGroupName: rodazuresentinel
-          WorkspaceName: RodAzureSentinelWorkspace
+          TenantId: <your_tenant_ID>
+          SubscriptionId: <your_subscription_ID>
+          ResourceGroupName: <your_RG_name>
+          WorkspaceName: <your_WS_name>
           Template: |-
             let ATLAS = externaldata (source_name:string,url:string,external_id:string,name:string,description:string,x_mitre_shortname:string,created_by_ref:string,object_marking_refs:string,type:string,id:string,created:string,modified:string) [@"https://raw.githubusercontent.com/rod-trent/Copilot-for-Security/main/Plugins/Data/atlas.csv"] with (ignoreFirstRecord=true, format="csv"); ATLAS | distinct external_id, name, description, type, url

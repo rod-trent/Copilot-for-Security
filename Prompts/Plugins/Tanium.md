@@ -1,18 +1,5 @@
-Prompts on this page require the Tanium plugin to work.
+Prompts on this page require the Tanium plugin and Tanium specific solutions to work.
 
-# General Prompts:
-```
-Tell me what computers are affected by CVE-2023-36805 and what patches are required. Group them by OS platform in table format
-```
----
-```
-What is the status of patch deployment for computer Win11-x64?
-```
----
-```
-Show me the systems that have log4j in their SBOM report, present the findings in a table
-```
----
 ## Tanium Copilot Prompts Legend 
 
 Synonyms:
@@ -68,6 +55,95 @@ Show me the details of Defender Incident 43
                 Use Tanium to tell me all of the machines that are currently connected to the malicious ip address
 ```
 ---
+# General Prompts:
 
+```
+Tell me what computers are affected by CVE-2023-36805 and what patches are required. Group them by OS platform in table format
+```
+---
+```
+What is the status of patch deployment for computer Win11-x64?
+```
+---
+```
+Show me the systems that have log4j in their SBOM report, present the findings in a table
+```
+---
+```
+Get Logged In User
+```
+---
+```
+Get Real-time Data from Endpoints
+```
+---
+```
+Count Endpoints Having Package Version
+```
+---
+```
+List Endpoints Having Package
+```
+---
+```
+List Process SHA-256 Hashes and Versions
+```
+---
+```
+Get Vulnerability Test Results
+```
+---
+```
+List Endpoints Vulnerable To CVE
+```
+---
+```
+View Endpoint Processes
+```
+---
+```
+List Service Module Details
+```
+---
+```
+List Service Process Details
+```
+---
+```
+List WMI Event Consumers
+```
+---
+```
+List File Details
+```
+---
+```
+List Child Processes for Process File
+```
+---
+```
+List Endpoints with Process Command
+```
+---
+```
+List Endpoints with Process Name
+```
+---
+```
+List Endpoints with Process MD5 Hash
+```
+---
+```
+List Endpoints with Process MD5 Hash
+```
+---
+```
+List Processes Connected To IPv4 Address
+```
+---
+```
+List Process Ran As User
+```
+---
 
 

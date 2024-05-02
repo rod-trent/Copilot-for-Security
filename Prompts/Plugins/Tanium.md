@@ -6,10 +6,6 @@ Tell me what computers are affected by CVE-2023-36805 and what patches are requi
 ```
 ---
 ```
-Please patch affected windows systems
-```
----
-```
 What is the status of patch deployment for computer Win11-x64?
 ```
 ---

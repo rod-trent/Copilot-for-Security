@@ -1,8 +1,11 @@
 ```
+What are the most recent publicly disclosed vulnerabilities?
+```
+---
+```
 Tell me about CVE-2024-3846 and summarize the information into bullet points.
 ```
 ---
-
 ```
 Show me the intel profile for Hazel Sandstorm
 ```

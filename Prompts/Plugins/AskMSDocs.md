@@ -1,4 +1,4 @@
-Prompts on this page use the Microsoft Docs System Capability. <br>
+Prompts on this page use the Microsoft Docs System Capability. <br><br>
 See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-documentation" target="_blank">Brief: How to Search Microsoft Documentation in Copilot for Security</a> 
 <br><br>
 

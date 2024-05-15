@@ -1,4 +1,8 @@
 ```
+Tell me about CVE-2024-30040
+```
+---
+```
 What are the most recent publicly disclosed vulnerabilities?
 ```
 ---

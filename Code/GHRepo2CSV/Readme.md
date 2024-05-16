@@ -1,6 +1,6 @@
-# GHRepo2CSV.py
+# GHRepo2CSV
 
-GHRepo2CSV.py is a python script that connects with the GitHub API and converts a repository structure to a .csv file, including file, path, and direct URL. 
+GHRepo2CSV is a python script and a PowerShell script that connects with the GitHub API and converts a repository structure to a .csv file, including file, path, and direct URL. 
 
 All you need to do is update the OWNER and REPO values.
 

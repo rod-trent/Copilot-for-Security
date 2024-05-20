@@ -1,0 +1,17 @@
+Descriptor:
+  Name: DefinitiveKQLKustoFree
+  DisplayName: The Definitive Guide to KQL from Microsoft Press for Kusto
+  Description: Better than a book index! Locates the samples from The Definitive Guide to KQL from Microsoft Press
+
+SkillGroups:
+  - Format: KQL
+    Skills:
+      - Name: DefinitiveKQLKustoFree 
+        DisplayName: The Definitive Guide to KQL from Microsoft Press for Kusto
+        Description: Better than a book index! Locates the samples from The Definitive Guide to KQL from Microsoft Press
+        Settings:
+         Target: Kusto
+         Cluster: <your_cluster_URL>
+         Database: <your_db_name>
+         Template: |-
+           Definitive_KQL

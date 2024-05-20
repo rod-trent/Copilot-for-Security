@@ -41,6 +41,7 @@ Learning the concepts of implementing and using Microsoft Copilot for Security
 * <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-documentation" target="_blank">Brief: How to Search Microsoft Documentation in Copilot for Security</a> - <i>Posted May 1, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/copilot-for-security-and-the-power" target="_blank">Copilot for Security and the Power of Use</a> - <i>Posted May 2, 2024</i><br>
 * <a href="https://rodtrent.substack.com/p/brief-using-file-uploads-and-limiting" target="_blank">Brief: Using File Uploads and Limiting Who Can Upload Files to Copilot for Security</a> - <i>Posted May 13, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/using-kustofree-with-copilot-for" target="_blank">Using KustoFree with Copilot for Security</a> - <i>Posted May 20, 2024</i><br>
 
 
 

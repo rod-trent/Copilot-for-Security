@@ -1,0 +1,26 @@
+openapi: 3.0.0
+
+info:
+    title: IP-API
+    description: IP-API IP Address Lookup
+    version: "v2"
+
+servers:
+    - url: http://ip-api.com/
+
+paths:
+    /json/{query}:
+        get: 
+            operationId: IPAPIIPAddress
+            summary: Lookup IP Information
+            parameters:
+                - in: path
+                  name: query 
+                  schema:
+                    type: string
+                  required: true
+            responses:
+                200:
+                    description: Successful authentication. 
+                401:
+                    description: Unsuccessful authentication.

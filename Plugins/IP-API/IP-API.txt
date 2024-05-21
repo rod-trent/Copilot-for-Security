@@ -9,13 +9,13 @@ servers:
     - url: http://ip-api.com/
 
 paths:
-    /json/{ip}:
+    /json/{query}:
         get: 
             operationId: IPAPIIPAddress
             summary: Lookup IP Information
             parameters:
                 - in: path
-                  name: ip 
+                  name: query 
                   schema:
                     type: string
                   required: true

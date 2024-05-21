@@ -1,0 +1,19 @@
+Descriptor:
+  Name: MITRE_Attack_Bad_Data
+  DisplayName: MITRE ATT&CK Reference Bad Data Use Case
+  Description: The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community. This plugin does something different.
+
+SkillGroups:
+  - Format: KQL
+    Skills:
+      - Name: MITRE_Attack_Bad_Data
+        DisplayName: MITRE ATT&CK Reference
+        Description: The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community. This plugin does something different.
+        Settings:
+          Target: Sentinel
+          TenantId: <your_tenant_ID>
+          SubscriptionId: <your_subscription_ID>
+          ResourceGroupName: <your_RG_name>
+          WorkspaceName: <your_WS_name>
+          Template: |-
+            let MITRE_Bad = externaldata (name:string,id:string,url:string,platforms:string,killchainphases:string,description:string,datasources:string,detection:string) [@"https://raw.githubusercontent.com/rod-trent/Copilot-for-Security/main/Other/BadDataPlugin/enterprise-attack-bad-data.csv"] with (ignoreFirstRecord=true, format="csv"); MITRE_Bad

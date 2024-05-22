@@ -20,4 +20,7 @@ Create a lifecycle workflow for new hires in the Marketing department that sends
 Have there been any failed sign-ins overnight?
 ```
 ---
-
+```
+Have there been any failed sign-ins in the last 24 hours?
+```
+---

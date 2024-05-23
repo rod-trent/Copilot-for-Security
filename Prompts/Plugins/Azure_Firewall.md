@@ -1,5 +1,5 @@
 Prompts on this page require the Azure Firewall plugin to work.
-
+<br><br>
 ```
 Has there been any malicious traffic intercepted by my Firewall <firewall_name>?
 ```

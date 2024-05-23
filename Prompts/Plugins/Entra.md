@@ -1,5 +1,5 @@
 Prompts on this page require the Entra plugin to work.
-
+<br><br>
 ```
 Have there been any failed sign-ins during the last weekend?
 ```

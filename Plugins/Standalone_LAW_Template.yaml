@@ -1,0 +1,18 @@
+Descriptor:
+  Name: StandaloneLAW
+  DisplayName: Standalone-LAW
+  Description: Querying a standalone Log Analytics Workspace
+
+SkillGroups:
+  - Format: KQL
+    Skills:
+      - Name: StandaloneLAW
+        DisplayName: Standalone-LAW
+        Description: Querying a standalone Log Analytics Workspace
+        Settings:
+          TenantId: <your_tenant_ID>
+          SubscriptionId: <your_subscription_ID>
+          ResourceGroupName: <your_RG_name>
+          WorkspaceName: <your_WS_name>
+          Template: |-
+            AADNonInteractiveUserSignInLogs | where TimeGenerated > ago(24h)

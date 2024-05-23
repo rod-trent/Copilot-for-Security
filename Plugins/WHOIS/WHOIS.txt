@@ -2,7 +2,7 @@ openapi: 3.0.0
 
 info:
     title: BigDomainData
-    description: WHOIS Looiup
+    description: WHOIS domain Lookup
     version: "v2"
 
 servers:

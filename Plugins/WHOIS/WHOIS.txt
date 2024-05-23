@@ -2,8 +2,10 @@ openapi: 3.0.0
 
 info:
     title: BigDomainData
-    description: WHOIS domain Lookup
-    version: "v2"
+    description: Perform a WHOIS Lookup to get domain ownership information
+    #WHOIS <Domain_Name>?
+    #Who owns <Domain_Name>?
+    version: "v1"
 
 servers:
     - url: https://api.bigdomaindata.com/
@@ -11,8 +13,8 @@ servers:
 paths:
     ?key={APIKey}&current_whois={query}:
         get: 
-            operationId: domain
-            summary: WHOIS domain
+            operationId: domainlookup
+            summary: Perform a WHOIS Lookup to get domain ownership information
             parameters:
                 - in: path
                   name: query 

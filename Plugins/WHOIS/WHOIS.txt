@@ -1,0 +1,26 @@
+openapi: 3.0.0
+
+info:
+    title: BigDomainData
+    description: WHOIS Looiup
+    version: "v2"
+
+servers:
+    - url: https://api.bigdomaindata.com/
+
+paths:
+    ?key=cMJeNYD9PRMvP2qahyVTrSoxNuvJe5Uu&current_whois={query}:
+        get: 
+            operationId: domain
+            summary: WHOIS domain
+            parameters:
+                - in: path
+                  name: query 
+                  schema:
+                    type: string
+                  required: true
+            responses:
+                200:
+                    description: Successful authentication. 
+                401:
+                    description: Unsuccessful authentication.

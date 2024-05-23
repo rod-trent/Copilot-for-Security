@@ -1,5 +1,5 @@
 Prompts on this page require the Microsoft 365 Defender plugin to work.
-
+<br><br>
 ```
 Summarize recent threat intelligence.
 ```

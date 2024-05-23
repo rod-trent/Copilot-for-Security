@@ -5,7 +5,7 @@ Descriptor:
   SupportedAuthTypes:
     - ApiKey
   Authorization:
-    Type: APIKey
+    Type: ApiKey
     Key: Key
     Location: Header
     AuthScheme: ''

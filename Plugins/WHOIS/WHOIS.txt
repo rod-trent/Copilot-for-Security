@@ -11,7 +11,7 @@ servers:
     - url: https://api.bigdomaindata.com/
 
 paths:
-    /?key={Key}&current_whois={domain}:
+    /?key={ApiKey}&current_whois={domain}:
         get: 
             operationId: domainlookup
             summary: Perform a WHOIS Lookup to get domain ownership information

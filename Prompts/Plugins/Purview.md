@@ -1,5 +1,5 @@
 Prompts on this page require the Purview plugin to work.
-
+<br><br>
 ```
 Show me the top 5 DLP alerts that I should prioritize today?
 ```

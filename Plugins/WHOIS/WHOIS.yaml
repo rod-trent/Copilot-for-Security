@@ -1,0 +1,9 @@
+Descriptor:
+  Name: WHOIS
+  DisplayName: WHOIS
+  Description: BigDomainData WHOIS domain lookup
+
+SkillGroups:
+  - Format: API
+    Settings:
+      OpenApiSpecUrl: https://raw.githubusercontent.com/rod-trent/Copilot-for-Security/main/Plugins/WHOIS/WHOIS.txt

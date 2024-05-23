@@ -9,7 +9,7 @@ servers:
     - url: https://api.bigdomaindata.com/
 
 paths:
-    ?key=cMJeNYD9PRMvP2qahyVTrSoxNuvJe5Uu&current_whois={query}:
+    ?key={APIKey}&current_whois={query}:
         get: 
             operationId: domain
             summary: WHOIS domain

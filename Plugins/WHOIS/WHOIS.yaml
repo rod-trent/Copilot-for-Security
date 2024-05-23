@@ -2,6 +2,13 @@ Descriptor:
   Name: WHOIS
   DisplayName: WHOIS
   Description: BigDomainData WHOIS domain lookup
+  SupportedAuthTypes:
+    - ApiKey
+  Authorization:
+    Type: APIKey
+    Key: Key
+    Location: Header
+    AuthScheme: ''
 
 SkillGroups:
   - Format: API

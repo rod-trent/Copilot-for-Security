@@ -26,3 +26,48 @@ paths:
                     description: Successful authentication. 
                 401:
                     description: Unsuccessful authentication.
+
+components:
+    schemas:
+        results:
+            type: object
+            properties:
+                domain_name:
+                    type: string
+                    description: The domain
+                domain_keyword:
+                    type: string
+                    description: Domain keyword
+                domain_tld:
+                    type: string
+                    description: Domain extension
+                query_time:
+                    type: string
+                    description: Query time
+                create_date:
+                    type: string
+                    description: Date the domain was created
+                update_date:
+                    type: string
+                    description: The last time the domain was updated
+                expiry_date:
+                    type: string
+                    description: When the domain is set to expire
+                registrar_iana:
+                    type: string
+                    description: Indicator
+                registrar_name:
+                    type: string
+                    description: Domain registrar
+                registrar_website:
+                    type: string
+                    description: Domain registrar website
+                name_servers:
+                    type: string
+                    description: DNS
+                domain_status:
+                    type: string
+                    description: Domain status
+                dns_sec:
+                    type: string
+                    description: DNS Sec

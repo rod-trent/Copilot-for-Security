@@ -4,11 +4,11 @@ Descriptor:
   Description: BigDomainData WHOIS domain lookup  
   Icon: https://github.com/rod-trent/Copilot-for-Security/blob/main/Plugins/WHOIS/WHOIS_icon.png?raw=true
   SupportedAuthTypes:
-    - ApiKey
+    - ServiceHttp
   Authorization:
     Type: APIKey
-    Key: x-apikey
-    Location: Header
+    Key: Key
+    Location: QueryParams
     AuthScheme: '' 
 
 SkillGroups:

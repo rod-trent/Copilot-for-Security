@@ -1,0 +1,10 @@
+resourceGraph: "servicehealthresources
+| extend Event = tostring(properties['EventType'])
+| extend State = tostring(properties['Status'])
+| extend Time = tostring(properties['ImpactMitigationTime'])
+| extend Review = tostring(properties['Summary'])
+| extend Service = tostring(properties['Impact'][0]['ImpactedService'])
+| extend Region = tostring(properties['Impact'][0]['ImpactedRegions'][0]['ImpactedRegion'])
+| where Event == "ServiceIssue"
+| where State == "Active"
+| project Service, Region, State, Review"

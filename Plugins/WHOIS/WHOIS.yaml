@@ -9,6 +9,7 @@ Descriptor:
     Key: Key
     Location: QueryParams
     AuthScheme: ''
+    Icon: https://github.com/rod-trent/Copilot-for-Security/blob/main/Plugins/WHOIS/WHOIS_icon.png
 
 SkillGroups:
   - Format: API

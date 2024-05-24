@@ -9,6 +9,12 @@ paths:
     post:
       operationId: runQuery
       summary: Run a query against Azure resources
+      parameters:
+        - in: query
+          name: api-version
+          schema:
+            type: string
+          required: true
       requestBody:
         required: true
         content:

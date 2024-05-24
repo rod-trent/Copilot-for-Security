@@ -6,10 +6,10 @@ Descriptor:
   SupportedAuthTypes:
     - ApiKey
   Authorization:
-    Type: ApiKey
-    Key: Key
-    Location: QueryParams
-    AuthScheme: ''    
+    Type: APIKey
+    Key: x-apikey
+    Location: Header
+    AuthScheme: '' 
 
 SkillGroups:
   - Format: API

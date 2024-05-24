@@ -1,3 +1,4 @@
+//Just active service issues
 resourceGraph: "servicehealthresources
 | extend Event = tostring(properties['EventType'])
 | extend State = tostring(properties['Status'])
@@ -8,3 +9,14 @@ resourceGraph: "servicehealthresources
 | where Event == "ServiceIssue"
 | where State == "Active"
 | project Service, Region, State, Review"
+
+
+//All current service notifications including Service Issue, Health Advisory, Planned Maintenance
+resourceGraph: "servicehealthresources
+| extend Event = tostring(properties['EventType'])
+| extend State = tostring(properties['Status'])
+| extend Time = tostring(properties['ImpactMitigationTime'])
+| extend Review = tostring(properties['Summary'])
+| extend Service = tostring(properties['Impact'][0]['ImpactedService'])
+| extend Region = tostring(properties['Impact'][0]['ImpactedRegions'][0]['ImpactedRegion'])
+| project Event, State, Time, Service, Region, Review"

@@ -15,12 +15,12 @@ paths:
         get: 
             operationId: domainlookup
             summary: Perform a WHOIS Lookup to get domain ownership information
-            parameters:                  
-                - in: path
-                  name: domain 
-                  schema:
-                    type: string
-                  required: true
+      parameters:
+        - name: "domain"
+          in: "path"
+          required: "true"
+          schema:
+            type: "string"
             responses:
                 200:
                     description: Successful authentication. 

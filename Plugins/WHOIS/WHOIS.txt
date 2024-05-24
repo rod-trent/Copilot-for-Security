@@ -9,18 +9,18 @@ servers:
     - url: https://api.bigdomaindata.com/
 
 paths:
-    /?key={ApiKey}&current_whois={query}:
+    /:
         get: 
             operationId: domainlookup
             summary: Perform a WHOIS Lookup to get domain ownership information
             parameters:
-                - in: path
-                  name: ApiKey 
+                - in: query
+                  name: key
                   schema:
                     type: string
                   required: true
-                - in: path
-                  name: query 
+                - in: query
+                  name: current_whois
                   schema:
                     type: string
                   required: true

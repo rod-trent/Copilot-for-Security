@@ -15,8 +15,7 @@ paths:
         get: 
             operationId: domainlookup
             summary: Perform a WHOIS Lookup to get domain ownership information
-            parameters:
-                  required: false
+            parameters:                  
                 - in: path
                   name: domain 
                   schema:

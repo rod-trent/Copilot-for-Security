@@ -2,7 +2,7 @@ Descriptor:
   Name: Azure_Service_Health
   DisplayName: Azure Service Health
   Description: Query Azure Resource Graph to identify service impacting events, planned maintenance, and other changes that may affect availability. 
-  Icon: https://github.com/rod-trent/Copilot-for-Security/blob/main/Plugins/AzureServiceHealth/servicehealthicon.png?raw=true
+  Icon: https://github.com/rod-trent/Copilot-for-Security/blob/main/Plugins/AzureServiceHealth/azhealthicon.png?raw=true
 
 SkillGroups:
   - Format: API

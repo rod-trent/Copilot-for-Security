@@ -6,7 +6,7 @@ info:
 servers:
   - url: https://api.bigdomaindata.com/
 paths:
-  /:
+  /?:
     get:
       operationId: domainlookup
       summary: Perform a WHOIS Lookup to get domain ownership information

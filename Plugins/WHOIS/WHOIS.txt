@@ -16,10 +16,6 @@ paths:
             operationId: domainlookup
             summary: Perform a WHOIS Lookup to get domain ownership information
             parameters:
-                - in: path
-                  name: ApiKey 
-                  schema:
-                    type: string
                   required: false
                 - in: path
                   name: domain 

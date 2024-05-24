@@ -1,1 +1,27 @@
-
+openapi: 3.0.0
+info:
+  title: Azure Resource Graph Explorer
+  version: 1.0.0
+servers:
+  - url: https://management.azure.com/
+paths:
+  /providers/Microsoft.ResourceGraph/resources:
+    post:
+      operationId: runQuery
+      summary: Run a query against Azure resources
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                subscriptions:
+                  type: array
+                  items:
+                    type: string
+                query:
+                  type: string
+      responses:
+        '200':
+          description: Query results

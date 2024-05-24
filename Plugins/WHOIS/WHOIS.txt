@@ -20,7 +20,7 @@ paths:
                   name: ApiKey 
                   schema:
                     type: string
-                  required: true
+                  required: false
                 - in: path
                   name: domain 
                   schema:

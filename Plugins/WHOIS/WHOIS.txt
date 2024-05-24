@@ -1,31 +1,103 @@
 openapi: 3.0.0
-
 info:
-    title: BigDomainData
-    description: Perform a WHOIS Lookup to get domain ownership information
-    version: "v1"
-
+  title: BigDomainData
+  description: Perform a WHOIS Lookup to get domain ownership information
+  version: "v1"
 servers:
-    - url: https://api.bigdomaindata.com/
-
+  - url: https://api.bigdomaindata.com/
 paths:
-    /:
-        get: 
-            operationId: domainlookup
-            summary: Perform a WHOIS Lookup to get domain ownership information
-            parameters:
-                - in: query
-                  name: ApiKey
-                  schema:
-                    type: string
-                  required: true
-                - in: query
-                  name: current_whois
-                  schema:
-                    type: string
-                  required: true
-            responses:
-                200:
-                    description: Successful authentication. 
-                401:
-                    description: Unsuccessful authentication.
+  /:
+    get:
+      operationId: domainlookup
+      summary: Perform a WHOIS Lookup to get domain ownership information
+      parameters:
+        - in: query
+          name: key
+          schema:
+            type: string
+          required: true
+        - in: query
+          name: current_whois
+          schema:
+            type: string
+          required: true
+      responses:
+        200:
+          description: Successful authentication.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  success:
+                    type: boolean
+                  query:
+                    type: object
+                    properties:
+                      current_whois:
+                        type: string
+                  count:
+                    type: object
+                    properties:
+                      total:
+                        type: integer
+                      relation:
+                        type: string
+                      current:
+                        type: integer
+                  results:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        domain_name:
+                          type: string
+                        domain_keyword:
+                          type: string
+                        domain_tld:
+                          type: string
+                        query_time:
+                          type: string
+                        create_date:
+                          type: string
+                        update_date:
+                          type: string
+                        expiry_date:
+                          type: string
+                        registrar_iana:
+                          type: integer
+                        registrar_name:
+                          type: string
+                        registrar_website:
+                          type: string
+                        registrant_company:
+                          type: string
+                        registrant_state:
+                          type: string
+                        registrant_country:
+                          type: string
+                        registrant_email:
+                          type: string
+                        name_servers:
+                          type: array
+                          items:
+                            type: string
+                        domain_status:
+                          type: array
+                          items:
+                            type: string
+                        dns_sec:
+                          type: array
+                          items:
+                            type: string
+                  stats:
+                    type: object
+                    properties:
+                      total_time:
+                        type: number
+                      api_credits_used:
+                        type: integer
+                      cost_calculation:
+                        type: string
+        401:
+          description: Unsuccessful authentication.

@@ -12,7 +12,7 @@ paths:
       summary: Perform a WHOIS Lookup to get domain ownership information
       parameters:
         - in: query
-          name: key
+          name: Key
           schema:
             type: string
           required: true

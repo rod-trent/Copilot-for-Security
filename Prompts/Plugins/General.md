@@ -1,4 +1,8 @@
 ```
+How can I better secure the following PowerShell code?
+```
+---
+```
 What areas in my environment would benefit from a Zero Trust approach?
 ```
 ---

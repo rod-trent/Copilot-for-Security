@@ -1,6 +1,8 @@
 # Copilot for Security Plugin: CfSAllinOne
 
-See the <a href="https://rodtrent.substack.com/i/144250833/version-history" target="_blank">version history</a>
+[b]Version history:[/b]
+[*] May 2, 2024 - initial release. Includes: SCU creation, SCU changes, and SCU deletion. Standalone experience logins.
+[*] May 28, 2024 - Now includes failed login to the Copilot for Security service.
 
 ### **This plugin combines previous plugins into a single, all-in-one effort to capture and respond with Copilot for Security activity. This plugin will be updated as additional monitoring activity is made available and identified.**
 

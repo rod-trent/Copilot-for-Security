@@ -1,0 +1,8 @@
+//Failed signins to the CfS console exposing user, reason, and necessary 
+
+BehaviorAnalytics
+| where TimeGenerated >= ago(7d)
+| where ActivityInsights.App == "Medeina Portal"
+| where ActivityInsights.Resource == "Medeina Service"
+| where ActivityType == "FailedLogOn"
+| project UserName, UserPrincipalName, ActionType, EventSource, SourceIPAddress, SourceIPLocation

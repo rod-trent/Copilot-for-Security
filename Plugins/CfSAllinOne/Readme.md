@@ -1,5 +1,9 @@
 # Copilot for Security Plugin: CfSAllinOne
 
+See the <a href="https://rodtrent.substack.com/i/144250833/version-history" target="_blank">version history</a>
+
+See the version history
+
 ### **This plugin combines previous plugins into a single, all-in-one effort to capture and respond with Copilot for Security activity. This plugin will be updated as additional monitoring activity is made available and identified.**
 
 ### Pre-requisites

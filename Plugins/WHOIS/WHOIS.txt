@@ -6,11 +6,16 @@ info:
 servers:
   - url: https://api.bigdomaindata.com/
 paths:
-  /?key={key}:
+  /:
     get:
       operationId: domainlookup
       summary: Perform a WHOIS Lookup to get domain ownership information
       parameters:
+        - in: query
+          name: key
+          schema:
+            type: string
+          required: true
         - in: query
           name: current_whois
           schema:

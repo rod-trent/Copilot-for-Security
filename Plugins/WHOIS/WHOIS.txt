@@ -4,9 +4,9 @@ info:
   description: Perform a WHOIS Lookup to get domain ownership information
   version: "v1"
 servers:
-  - url: https://api.bigdomaindata.com/?key={key}
+  - url: https://api.bigdomaindata.com/
 paths:
-  /:
+  /?key={key}:
     get:
       operationId: domainlookup
       summary: Perform a WHOIS Lookup to get domain ownership information

@@ -8,7 +8,7 @@ servers:
 paths:
   /:
     get:
-      operationId: domainlookup
+      operationId: WHOISdomain
       summary: Perform a WHOIS Lookup to get domain ownership information
       parameters:
         - in: query

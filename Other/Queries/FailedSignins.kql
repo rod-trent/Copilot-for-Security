@@ -1,4 +1,4 @@
-//Failed signins to the CfS console exposing user, reason, and necessary 
+//Failed signins to the CfS service exposing user, reason, and necessary 
 
 BehaviorAnalytics
 | where TimeGenerated >= ago(7d)

@@ -17,7 +17,7 @@ See the <a href="https://rodtrent.substack.com/i/144250833/version-history" targ
 
 1.  Obtain the file CfSAllinOne.yaml from this directory.
 2.  Modify the yaml file to specify your specific Entra TentantId, SubscriptionId, ResourceGroupName and WorkspaceName for your Sentinel instance.
-3.  <a href="https://learn.microsoft.com/en-us/copilot/security/manage-plugins?tabs=securitycopilotplugin" target="_blank">Upload the custom plugin</a>
+3.  <a href="https://learn.microsoft.com/en-us/copilot/security/manage-plugins?tabs=securitycopilotplugin#add-custom-plugins" target="_blank">Upload the custom plugin</a>
 
 
 

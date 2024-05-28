@@ -1,9 +1,5 @@
 # Copilot for Security Plugin: CfSAllinOne
 
-[b]Version history:[/b]
-[*] May 2, 2024 - initial release. Includes: SCU creation, SCU changes, and SCU deletion. Standalone experience logins.
-[*] May 28, 2024 - Now includes failed login to the Copilot for Security service.
-
 ### **This plugin combines previous plugins into a single, all-in-one effort to capture and respond with Copilot for Security activity. This plugin will be updated as additional monitoring activity is made available and identified.**
 
 ### Pre-requisites
@@ -12,6 +8,10 @@
 -   [Access to upload custom plugins](https://learn.microsoft.com/en-us/security-copilot/manage-plugins?tabs=securitycopilotplugin#managing-custom-plugins)
 -   [Microsoft Sentinel Workspace](https://learn.microsoft.com/en-us/azure/sentinel/quickstart-onboard) created.
 -   Parameters for KQL Plugin - Microsoft Sentinel Workspace Name, Subscription ID, Resource Group Name and Entra Tenant ID
+
+### Version history:
+-  May 2, 2024 - initial release. Includes: SCU creation, SCU changes, and SCU deletion. Standalone experience logins.
+-  May 28, 2024 - Now includes failed login to the Copilot for Security service.
 
 ### Instructions
 

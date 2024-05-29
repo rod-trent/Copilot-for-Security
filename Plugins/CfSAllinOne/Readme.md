@@ -13,6 +13,8 @@
 -  May 2, 2024 - initial release. Includes: SCU creation, SCU changes, and SCU deletion. Standalone experience logins.
 -  May 28, 2024 - Now includes failed login to the Copilot for Security service.
 
+Details: https://rodtrent.substack.com/p/copilot-for-security-activity-all 
+
 ### Instructions
 
 #### Upload the Custom Plugin

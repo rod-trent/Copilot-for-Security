@@ -1,4 +1,9 @@
 ```
+Create a security awareness training outline for employees that covers phishing, password management, and safe internet practices.
+```
+---
+
+```
 How can I better secure the following PowerShell code?
 ```
 ---

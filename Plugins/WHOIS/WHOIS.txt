@@ -24,7 +24,7 @@ paths:
         '200':
           description: WHOIS information
           content:
-            application/json:
+            application/xml:
               schema:
                 $ref: '#/components/schemas/WhoisRecord'
 components:

@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  title: Whois XML API
+  title: Whois API
   version: 1.0.0
 servers:
   - url: https://www.whoisxmlapi.com/whoisserver

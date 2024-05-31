@@ -1,18 +1,17 @@
 openapi: 3.0.0
 info:
-  title: WhoisXML
-  description: Perform a WHOIS Lookup to get domain ownership information
-  version: "v1"
+  title: Whois XML API
+  version: 1.0.0
 servers:
-  - url: https://www.whoisxmlapi.com/whoisserver/
+  - url: https://www.whoisxmlapi.com/whoisserver
 paths:
   /WhoisService:
     get:
-      operationId: domainlookup
-      summary: Perform a WHOIS Lookup to get domain ownership information
+      operationId: getWhoisInfo
+      summary: Get WHOIS information for a domain
       parameters:
         - in: query
-          name: key
+          name: apiKey
           schema:
             type: string
           required: true
@@ -22,7 +21,14 @@ paths:
             type: string
           required: true
       responses:
-        200:
-          description: Successful authentication.
-        401:
-          description: Unsuccessful authentication.
+        '200':
+          description: WHOIS information
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  WhoisRecord:
+                    type: object
+                    properties:
+                      # Define properties based on the response

@@ -17,7 +17,7 @@ paths:
             type: string
           required: true
         - in: query
-          name: current_whois
+          name: domainName
           schema:
             type: string
           required: true

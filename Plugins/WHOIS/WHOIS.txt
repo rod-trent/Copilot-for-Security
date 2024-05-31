@@ -4,9 +4,9 @@ info:
   description: Perform a WHOIS Lookup to get domain ownership information
   version: "v1"
 servers:
-  - url: https://api.bigdomaindata.com/
+  - url: https://www.whoisxmlapi.com/
 paths:
-  /WhoisService:
+  /whoisserver/WhoisService:
     get:
       operationId: domainlookup
       summary: Perform a WHOIS Lookup to get domain ownership information

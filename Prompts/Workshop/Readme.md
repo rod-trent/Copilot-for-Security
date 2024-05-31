@@ -3,5 +3,5 @@
 * **April 24, 2024** - Added a section about Generative AI Tokens
 
 * **May 31, 2024** - Added a couple slides/Enhanced the section on the standalone and embedded experiences
-
+<br><br>
 ![Alt text](https://github.com/rod-trent/Copilot-for-Security/blob/main/Images/betterprompts.jpg)

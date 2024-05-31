@@ -1,8 +1,11 @@
 ```
+List all known vulnerabilities associated with current server software versions and suggest a prioritized plan for patching.
+```
+---
+```
 Summarize the latest threat intelligence report on ransomware attacks targeting the healthcare sector, highlighting key indicators of compromise and suggested defense strategies.
 ```
 ---
-
 ```
 Tell me about CVE-2024-30040
 ```

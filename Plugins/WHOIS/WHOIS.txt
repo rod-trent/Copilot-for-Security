@@ -4,9 +4,9 @@ info:
   description: Perform a WHOIS Lookup to get domain ownership information
   version: "v1"
 servers:
-  - url: https://www.whoisxmlapi.com/
+  - url: https://www.whoisxmlapi.com/whoisserver/
 paths:
-  /whoisserver/WhoisService:
+  /WhoisService:
     get:
       operationId: domainlookup
       summary: Perform a WHOIS Lookup to get domain ownership information

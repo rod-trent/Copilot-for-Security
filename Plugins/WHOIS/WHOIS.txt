@@ -26,9 +26,173 @@ paths:
           content:
             application/json:
               schema:
-                type: object
-                properties:
-                  WhoisRecord:
-                    type: object
-                    properties:
-                      # Define properties based on the response
+                $ref: '#/components/schemas/WhoisRecord'
+components:
+  schemas:
+    WhoisRecord:
+      type: object
+      properties:
+        createdDate:
+          type: string
+          format: date-time
+        updatedDate:
+          type: string
+          format: date-time
+        expiresDate:
+          type: string
+          format: date-time
+        registrant:
+          $ref: '#/components/schemas/Contact'
+        administrativeContact:
+          $ref: '#/components/schemas/Contact'
+        technicalContact:
+          $ref: '#/components/schemas/Contact'
+        domainName:
+          type: string
+        nameServers:
+          $ref: '#/components/schemas/NameServers'
+        status:
+          type: string
+        rawText:
+          type: string
+        parseCode:
+          type: integer
+        header:
+          type: string
+        strippedText:
+          type: string
+        footer:
+          type: string
+        audit:
+          $ref: '#/components/schemas/Audit'
+        customField1Name:
+          type: string
+        customField1Value:
+          type: string
+        registrarName:
+          type: string
+        registrarIANAID:
+          type: string
+        createdDateNormalized:
+          type: string
+          format: date-time
+        updatedDateNormalized:
+          type: string
+          format: date-time
+        expiresDateNormalized:
+          type: string
+          format: date-time
+        customField2Name:
+          type: string
+        customField3Name:
+          type: string
+        customField2Value:
+          type: string
+        customField3Value:
+          type: string
+        registryData:
+          $ref: '#/components/schemas/RegistryData'
+        domainAvailability:
+          type: string
+        contactEmail:
+          type: string
+        domainNameExt:
+          type: string
+        estimatedDomainAge:
+          type: integer
+        ips:
+          type: array
+          items:
+            type: string
+    Contact:
+      type: object
+      properties:
+        organization:
+          type: string
+        state:
+          type: string
+        country:
+          type: string
+        countryCode:
+          type: string
+        rawText:
+          type: string
+    NameServers:
+      type: object
+      properties:
+        rawText:
+          type: string
+        hostNames:
+          type: array
+          items:
+            type: string
+        ips:
+          type: array
+          items:
+            type: string
+    Audit:
+      type: object
+      properties:
+        createdDate:
+          type: string
+          format: date-time
+        updatedDate:
+          type: string
+          format: date-time
+    RegistryData:
+      type: object
+      properties:
+        createdDate:
+          type: string
+          format: date-time
+        updatedDate:
+          type: string
+          format: date-time
+        expiresDate:
+          type: string
+          format: date-time
+        domainName:
+          type: string
+        nameServers:
+          $ref: '#/components/schemas/NameServers'
+        status:
+          type: string
+        rawText:
+          type: string
+        parseCode:
+          type: integer
+        header:
+          type: string
+        strippedText:
+          type: string
+        footer:
+          type: string
+        audit:
+          $ref: '#/components/schemas/Audit'
+        customField1Name:
+          type: string
+        customField1Value:
+          type: string
+        registrarName:
+          type: string
+        registrarIANAID:
+          type: string
+        createdDateNormalized:
+          type: string
+          format: date-time
+        updatedDateNormalized:
+          type: string
+          format: date-time
+        expiresDateNormalized:
+          type: string
+          format: date-time
+        customField2Name:
+          type: string
+        customField3Name:
+          type: string
+        customField2Value:
+          type: string
+        customField3Value:
+          type: string
+        whoisServer:
+          type: string

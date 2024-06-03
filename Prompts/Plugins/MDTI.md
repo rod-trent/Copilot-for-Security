@@ -1,8 +1,8 @@
 ```
-Tell me about Storm-1679 and supply links to read more information about it.
+1. Tell me about Storm-1679 and supply links to read more information about it.
 ```
 ```
-      How would I detect and mitigate this in my own environment? Give me prescriptive steps to share with my security team.
+      2. How would I detect and mitigate this in my own environment? Give me prescriptive steps to share with my security team.
 ```
 ---
 

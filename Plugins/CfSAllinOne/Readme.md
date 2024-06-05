@@ -10,8 +10,9 @@
 -   Parameters for KQL Plugin - Microsoft Sentinel Workspace Name, Subscription ID, Resource Group Name and Entra Tenant ID
 
 ### Version history:
--  May 2, 2024 - initial release. Includes: SCU creation, SCU changes, and SCU deletion. Standalone experience logins.
+-  May 2, 2024 - Initial release. Includes: SCU creation, SCU changes, and SCU deletion. Standalone experience logins.
 -  May 28, 2024 - Now includes failed login to the Copilot for Security service.
+-  June 5, 2024 - Added the ability to show who has used the Microsoft Intune extension recently. Includes things like: user, location, processing time (in ms). 
 
 Details: https://rodtrent.substack.com/p/copilot-for-security-activity-all 
 

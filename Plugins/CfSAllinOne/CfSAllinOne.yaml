@@ -1,14 +1,14 @@
 Descriptor:
   Name: CfSAllinOne
   DisplayName: Copilot for Security Activity
-  Description: Looks for Copilot for Security Activity including SCU creation, changes and deletion and Standalone experience logins. Will be updated when new activities are discovered.
+  Description: Looks for Copilot for Security Activity including SCU creation, changes and deletion and Standalone and embedded experience activity and logins. Will be updated when new activities are discovered.
 
 SkillGroups:
   - Format: KQL
     Skills:
       - Name: CfSAllinOne
         DisplayName: Copilot for Security Activity
-        Description: Looks for Copilot for Security Activity including SCU creation, changes and deletion and Standalone experience logins. Will be updated when new activities are discovered.
+        Description: Looks for Copilot for Security Activity including SCU creation, changes and deletion and Standalone and embedded experience activity and logins. Will be updated when new activities are discovered.
         Settings:
           Target: Sentinel
           TenantId: <your_tenant_ID>

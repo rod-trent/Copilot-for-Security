@@ -1,0 +1,11 @@
+//Identifies Unified console activity for CfS
+
+AADNonInteractiveUserSignInLogs 
+| where AppDisplayName == "Microsoft 365 Security and Compliance Center" 
+| where ResourceDisplayName has "Medeina" 
+| extend city_ = tostring(parse_json(LocationDetails).city) 
+| extend countryOrRegion_ = tostring(parse_json(LocationDetails).countryOrRegion) 
+| extend latitude_ = tostring(parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).latitude) 
+| extend longitude_ = tostring(parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).longitude) 
+| extend state_ = tostring(parse_json(LocationDetails).state) 
+| project TimeGenerated, Identity, UserType, UserPrincipalName, city_, countryOrRegion_, state_, latitude_, longitude_, ResourceDisplayName, AppDisplayName, ProcessingTimeInMs

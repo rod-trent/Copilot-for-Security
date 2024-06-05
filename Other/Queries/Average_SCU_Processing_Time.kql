@@ -1,0 +1,6 @@
+//Getting an average of SCU processing time for CfS
+
+AADNonInteractiveUserSignInLogs
+| where ResourceDisplayName has "Medeina"
+| project TimeGenerated, ResourceDisplayName, AppDisplayName, toint(ProcessingTimeInMs)
+| summarize Avg_Processing_Time = avg(ProcessingTimeInMs) by ResourceDisplayName

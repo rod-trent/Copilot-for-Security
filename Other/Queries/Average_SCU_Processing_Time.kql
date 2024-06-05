@@ -4,3 +4,10 @@ AADNonInteractiveUserSignInLogs
 | where ResourceDisplayName has "Medeina"
 | project TimeGenerated, ResourceDisplayName, AppDisplayName, toint(ProcessingTimeInMs)
 | summarize Avg_Processing_Time = avg(ProcessingTimeInMs) by ResourceDisplayName
+
+//Same as above but split by resource and when it happened
+
+AADNonInteractiveUserSignInLogs
+| where ResourceDisplayName has "Medeina"
+| project TimeGenerated, ResourceDisplayName, AppDisplayName, toint(ProcessingTimeInMs)
+| summarize Avg_Processing_Time = avg(ProcessingTimeInMs) by ResourceDisplayName, AppDisplayName, TimeGenerated

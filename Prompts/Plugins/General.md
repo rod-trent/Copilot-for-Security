@@ -1,8 +1,11 @@
 ```
+Use public website https://nvd.nist.gov/vuln/detail/CVE-2017-3506 and summarize the security vulnerability to be included in a report to my manager.
+```
+---
+```
 Use public website https://learn.microsoft.com/en-us/copilot/security/whats-new-copilot-security and summarize what is new for June 2024.
 ```
 ---
-
 ```
 Create a security awareness training outline for employees that covers phishing, password management, and safe internet practices.
 ```

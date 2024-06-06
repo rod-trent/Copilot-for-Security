@@ -1,8 +1,12 @@
 ```
-Create a security awareness training outline for employees that covers phishing, password management, and safe internet practices.
+Use public website https://learn.microsoft.com/en-us/copilot/security/whats-new-copilot-security and summarize what is new for June 2024.
 ```
 ---
 
+```
+Create a security awareness training outline for employees that covers phishing, password management, and safe internet practices.
+```
+---
 ```
 How can I better secure the following PowerShell code?
 ```

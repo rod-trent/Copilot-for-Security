@@ -1,4 +1,8 @@
 ```
+Use the public website https://www.bing.com/news/search?q=top+security+news+stories+this+past+week and summarize the most current cybersecurity news.
+```
+---
+```
 Use public website https://nvd.nist.gov/vuln/detail/CVE-2017-3506 and summarize the security vulnerability to be included in a report to my manager.
 ```
 ---

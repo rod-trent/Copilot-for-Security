@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+Show me Sentinel incidents that were closed as a false positive.
+```
+---
+```
 Summarize Sentinel incident <SENTINEL_INCIDENT_ID>
 ```
 ---

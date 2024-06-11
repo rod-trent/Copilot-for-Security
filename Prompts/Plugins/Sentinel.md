@@ -1,7 +1,7 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
-Show me Sentinel incidents that were closed as a false positive. Supply the Incident number and Incident Title.
+Show me Sentinel incidents that were closed as a false positive. Supply the Incident number, Incident Title, and the time they were created.
 ```
 ---
 ```

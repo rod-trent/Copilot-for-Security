@@ -5,6 +5,10 @@ Write a KQL query that shows a table of devices that are enrolled in Microsoft I
 ```
 ---
 ```
+Summarize Defender incident <DEFENDER_INCIDENT_ID>. Include the Incident ID, category, and impacted assets.
+```
+---
+```
 Summarize recent threat intelligence.
 ```
 ---

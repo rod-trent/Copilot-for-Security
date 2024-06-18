@@ -1,0 +1,12 @@
+//Failed MFA authentication against the Standalone experience.
+
+SigninLogs 
+| where TimeGenerated >= ago(24h) 
+| where AppDisplayName == "Medeina Portal" 
+| where ResultType == "50074" 
+| extend city = LocationDetails.city 
+| extend state = LocationDetails.state 
+| extend region = LocationDetails.countryOrRegion 
+| extend latitude = parse_json(tostring(LocationDetails.geoCoordinates)).latitude 
+| extend longitude = parse_json(tostring(LocationDetails.geoCoordinates)).longitude 
+| project UserDisplayName, UserPrincipalName, UserType, city, state, region, latitude, longitude, AADTenantId

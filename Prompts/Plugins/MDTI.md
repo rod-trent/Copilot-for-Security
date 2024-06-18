@@ -1,11 +1,14 @@
 ```
+Copilot for Security Prompt of the Day: Evaluate the security implications of using outdated software and dependencies in a corporate environment.
+```
+---
+```
 1. Tell me about Storm-1679 and supply links to read more information about it.
 ```
 ```
       2. How would I detect and mitigate this in my own environment? Give me prescriptive steps to share with my security team.
 ```
 ---
-
 ```
 List all known vulnerabilities associated with current server software versions and suggest a prioritized plan for patching.
 ```

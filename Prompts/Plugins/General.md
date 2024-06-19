@@ -1,8 +1,11 @@
 ```
+Summarize the results so far.
+```
+---
+```
 What is the best tool to use to automate a response in Microsoft Sentinel? For Microsoft Defender?
 ```
 ---
-
 ```
 Use the public website https://www.bing.com/news/search?q=top+security+news+stories+this+past+week and summarize the most current cybersecurity news.
 ```

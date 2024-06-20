@@ -1,4 +1,8 @@
 ```
+Use the public URL https://learn.microsoft.com/copilot/security/whats-new-copilot-security and summarize what's new for Copilot for Security.
+```
+---
+```
 Summarize the results so far.
 ```
 ---

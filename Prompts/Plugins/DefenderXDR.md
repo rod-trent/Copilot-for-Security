@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft 365 Defender plugin to work.
 <br><br>
 ```
+I have been out sick since Friday. Do I have any high severity incidents in Defender assigned to me since then?
+```
+---
+```
 Write a KQL query that shows a table of devices that are enrolled in Microsoft Intune. Add the device health score and the compliance status for each device using the lookup operator to join the devices table with a table of device health data and a table of device compliance data, based on the device ID.
 ```
 ---

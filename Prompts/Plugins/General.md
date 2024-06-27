@@ -1,4 +1,11 @@
 ```
+1. How should my company react to a Kobayashi Maru scenario after identifying a security breach that has taken over the entire corporate infrastructure?
+```
+```
+      2. Who would be the best resource to identify for help in this situation?
+```
+---
+```
 Use the public URL https://learn.microsoft.com/copilot/security/whats-new-copilot-security and summarize what's new for Copilot for Security.
 ```
 ---

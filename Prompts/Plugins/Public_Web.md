@@ -1,3 +1,5 @@
+Prompts on this page require that the Public Web plugin be enabled.
+<br><br>
 ```
 Use the public URL https://raw.githubusercontent.com/rod-trent/Copilot-for-Security/main/Other/BadDataPlugin/enterprise-attack-bad-data.csv and tell me about OS Credential Dumping.
 ```

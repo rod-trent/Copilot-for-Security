@@ -1,4 +1,3 @@
----
 ```
 1. How should my company react to a Kobayashi Maru scenario after identifying a security breach that has taken over the entire corporate infrastructure?
 ```

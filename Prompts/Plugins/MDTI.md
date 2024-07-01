@@ -1,4 +1,8 @@
 ```
+Are there any threat actors that take advantage of the <insert holiday name> holiday that I should be aware of?
+```
+---
+```
 Copilot for Security Prompt of the Day: Evaluate the security implications of using outdated software and dependencies in a corporate environment.
 ```
 ---

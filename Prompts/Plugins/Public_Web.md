@@ -1,6 +1,10 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
+Use the public URL https://raw.githubusercontent.com/microsoft/mstic/master/PublicFeeds/MSFTIPRanges/ServiceTags_Public.json and tell me the IP addresses for AzureAD.
+```
+---
+```
 Use the public URL https://raw.githubusercontent.com/rod-trent/Copilot-for-Security/main/Other/BadDataPlugin/enterprise-attack-bad-data.csv and tell me about OS Credential Dumping.
 ```
 ---

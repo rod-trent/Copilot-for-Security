@@ -1,6 +1,10 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
+Use the public URL https://raw.githubusercontent.com/microsoft/mstic/master/PublicFeeds/ThreatActorNaming/MicrosoftMapping.json and tell me the threat actor names for Russia and North Korea.
+```
+---
+```
 Use the public URL https://raw.githubusercontent.com/microsoft/mstic/master/PublicFeeds/MSFTIPRanges/OfficeWorldWide-IPRanges.json and tell me the IPs and tcpPorts for SharePoint Online and OneDrive for Business
 ```
 ---

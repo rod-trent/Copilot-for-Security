@@ -1,7 +1,7 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
-Use the public URL https://rss.app/feeds/sUT7HK03sBu5O9UN.csv and tell me all the news about Copilot for Security for the last 5 days.
+Use the public URL https://rss.app/feeds/sUT7HK03sBu5O9UN.csv and tell me all the Twitter news about Copilot for Security for the last 5 days.
 ```
 ---
 ```

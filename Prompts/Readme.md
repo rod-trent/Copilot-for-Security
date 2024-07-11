@@ -19,6 +19,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | Plugin |
 | ------ |
 | [General](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/General.md) |
+| [CfS All-in-One](https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Plugins/All-in-one.md) |
 | [Azure Firewall](https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Plugins/Azure_Firewall.md) |
 | [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md) |
 | [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md) |

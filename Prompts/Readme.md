@@ -24,8 +24,12 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Defender XDR](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/DefenderXDR.md) |
 | [Entra](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Entra.md) |
 | [Intune](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Intune.md) |
+| [IP-API](https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Plugins/IP-API.md) |
 | MDO |
+| [MSEASM](https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Plugins/MDEASM.md) |
 | [MDTI](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/MDTI.md) |
+| [NL2KQL](https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Plugins/NL2KQL.md) |
+| [Public Web](https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Plugins/Public_Web.md) |
 | [Purview](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Purview.md) |
 | [Sentinel](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/Sentinel.md) |
 | [ServiceNow](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Plugins/ServiceNow.md) |

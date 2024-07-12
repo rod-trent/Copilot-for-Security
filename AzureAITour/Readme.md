@@ -6,4 +6,4 @@ The prompts here are made available as the demo prompts shown during the **Moder
 
 ## <a href="https://github.com/rod-trent/Copilot-for-Security/blob/main/AzureAITour/Demos/Generate_KQL.md" target="_blank">Demo: Generating KQL Queries</a>
 
-## <a href="https://github.com/rod-trent/Copilot-for-Security/blob/main/AzureAITour/Demos/Generate_KQL.md" target="_blank">Demo: Using External Sources for Intelligence</a>
+## <a href="https://github.com/rod-trent/Copilot-for-Security/blob/main/AzureAITour/Demos/External_Sources.md" target="_blank">Demo: Using External Sources for Intelligence</a>

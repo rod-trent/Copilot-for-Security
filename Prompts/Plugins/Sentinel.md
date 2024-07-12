@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+Tell me how to create a Microsoft Sentinel Analytics Rule.
+```
+---
+```
 Show me Sentinel incidents that were closed as a false positive. Supply the Incident number, Incident Title, and the time they were created.
 ```
 ---

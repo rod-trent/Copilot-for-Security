@@ -1,6 +1,10 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
+Use Microsoft Docs and tell me how to create a Sentinel Analytics Rule.
+```
+---
+```
 Use the public URL https://rss.app/feeds/sUT7HK03sBu5O9UN.csv and tell me all the Twitter news about Copilot for Security for the last 5 days.
 ```
 ---

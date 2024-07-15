@@ -9,6 +9,16 @@ Query = <query processing example: the top medium severity alert and the number 
 Display = <how the results are displayed example: just the alert name and the times it shows up>
 ```
 ---
+For a Promptbook
+```
+Use the following information to generate a proper KQL query for <PRODUCT_NAME>.
+
+Table = <TABLE_NAME>
+Date range = <TIME_RANGE>
+Query = <QUERY_RESULT>
+Display = <RESULTS_DISPLAY>
+```
+---
 ```
 What Hunting measures can I take to identify an increase in activity for <insert holiday name>?
 ```

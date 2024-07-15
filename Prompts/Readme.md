@@ -64,6 +64,7 @@ This folder contains prompt examples, prompting templates, and Promptbooks for u
 | [Suspicious script analysis](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Suspicious_Script.md) |
 | [Vulnerability impact assessment](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Vulnerability_Assessment.md) |
 | [Incident Prioritization](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Incident_Prioritization.md) |
+| [KQL Request Template](https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Promptbooks/KQL_Request.md) |
 | [Sentinel Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Sentinel_Investigation.md) |
 | [Defender Investigation](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/365_Defender_Investigation.md) |
 | [Service Now Incident](https://github.com/rod-trent/Security-Copilot/blob/main/Prompts/Promptbooks/Service_Now_Enrichment.md) |

@@ -4,7 +4,7 @@ Prompts on this page require the Natural Language to KQL plugin to work.
 Use the following information to generate a proper KQL query for Microsoft Sentinel.
 
 Table = <tablename>
-Date range = <time range>
+Time range = <time range>
 Query = <query processing example: the top medium severity alert and the number of times is shows up in the data>
 Display = <how the results are displayed example: just the alert name and the times it shows up>
 ```

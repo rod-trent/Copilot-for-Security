@@ -1,6 +1,15 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Use the following information to generate a proper KQL query for Microsoft Sentinel.
+
+Table = SecurityAlert
+Date range = last 3 days
+Query = the top medium severity alert and the number of times is shows up in the data
+Display = just the alert name and the times it shows up
+```
+---
+```
 What Hunting measures can I take to identify an increase in activity for <insert holiday name>?
 ```
 ---

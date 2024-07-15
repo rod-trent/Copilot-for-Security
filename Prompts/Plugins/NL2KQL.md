@@ -8,7 +8,6 @@ Date range = <time range>
 Query = <query processing example: the top medium severity alert and the number of times is shows up in the data>
 Display = <how the results are displayed example: just the alert name and the times it shows up>
 ```
----
 
 The above, but for a Promptbook: https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Promptbooks/KQL_Request.md
 

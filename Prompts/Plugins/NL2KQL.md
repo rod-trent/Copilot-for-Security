@@ -9,7 +9,7 @@ Query = <query processing example: the top medium severity alert and the number 
 Display = <how the results are displayed example: just the alert name and the times it shows up>
 ```
 ---
-For a Promptbook
+The above, but for a Promptbook
 ```
 Use the following information to generate a proper KQL query for <PRODUCT_NAME>.
 

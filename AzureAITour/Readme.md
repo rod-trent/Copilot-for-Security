@@ -11,3 +11,6 @@ The prompts here are made available as the demo prompts shown during the **Moder
 ## <a href="https://github.com/rod-trent/Copilot-for-Security/blob/main/AzureAITour/Demos/External_Sources.md" target="_blank">Demo: Using External Sources for Intelligence</a>
 
 
+# Copilot for Security Plugin Library for the Microsoft AI Tour
+
+## <a href="https://github.com/rod-trent/Copilot-for-Security/tree/main/AzureAITour/Plugins/IP-API" target="_blank">Demo: IP-API Plugin</a>

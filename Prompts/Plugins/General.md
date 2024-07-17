@@ -3,6 +3,10 @@ Create a policy document for secure password management. Include guidelines for 
 ```
 ---
 ```
+Discuss how threat modeling helps identify potential security risks early in the development lifecycle.
+```
+---
+```
 Generate an XPath query to filter for EventID 4768 Events.
 ```
 ---

@@ -1,4 +1,8 @@
 ```
+Create a policy document for secure password management. Include guidelines for password complexity, expiration, and multi-factor authentication.
+```
+---
+```
 Generate an XPath query to filter for EventID 4768 Events.
 ```
 ---

@@ -7,6 +7,10 @@ Discuss how threat modeling helps identify potential security risks early in the
 ```
 ---
 ```
+Tell me how our security team should approach a suspected data breach. Provide a step-by-step procedure and focus on the actions to take when unauthorized access to sensitive data is detected.
+```
+---
+```
 Generate an XPath query to filter for EventID 4768 Events.
 ```
 ---

@@ -1,6 +1,10 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
+Use public URL https://mortenknudsen.net/?p=3163 and supply a summary of the workarounds for the reported Crowdstrike issue.
+```
+---
+```
 Use Microsoft Docs and tell me how to create a Sentinel Analytics Rule.
 ```
 ---

@@ -5,6 +5,10 @@ Use public URL https://mortenknudsen.net/?p=3163 and supply a summary of the wor
 ```
 ---
 ```
+Use the public website https://www.bing.com/news/search?q=CrowdStrike&qs=n&form=QBNT&sp=-1&ghc=1&lq=0&pq=crowdstrik&sc=10-10&sk=&cvid=D528A09E479449FEB5F9FA2004E12789&ghsh=0&ghacc=0&ghpl= and summarize the most current news about CrowdStrike.
+```
+---
+```
 Use Microsoft Docs and tell me how to create a Sentinel Analytics Rule.
 ```
 ---

@@ -1,4 +1,8 @@
 ```
+Discuss how threat modeling helps identify potential security risks early in the development lifecycle. Supply the response in Markdown code. Use Markdown H1 header for the response title.
+```
+---
+```
 Create a policy document for secure password management. Include guidelines for password complexity, expiration, and multi-factor authentication.
 ```
 ---

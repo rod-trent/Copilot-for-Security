@@ -1,4 +1,9 @@
 ```
+Discuss how threat modeling helps identify potential security risks early in the development lifecycle. Supply the response so that a 5 year old will understand it.
+```
+---
+
+```
 Discuss how threat modeling helps identify potential security risks early in the development lifecycle. Supply the response in Markdown code. Use Markdown H1 header for the response title.
 ```
 ---

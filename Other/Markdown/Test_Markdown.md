@@ -1,4 +1,3 @@
-```markdown
 # The Role of Threat Modeling in Identifying Security Risks
 
 Threat modeling is a proactive approach to identifying, understanding, and managing potential security threats in a system. It is typically implemented early in the development lifecycle, which allows for the early detection and mitigation of potential security risks. Here's how it works:

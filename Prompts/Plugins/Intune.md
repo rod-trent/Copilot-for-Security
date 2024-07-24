@@ -21,6 +21,6 @@ Create a policy that blocks users from using any removable storage devices on Wi
 ```
 ---
 ```
-Describe the impact of this policy on users and highlight setting conflicts with existing policy.
+Describe the impact of the <insert policy name> policy on users and highlight setting conflicts with existing policy.
 ```
 ---

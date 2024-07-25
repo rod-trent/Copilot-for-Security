@@ -1,6 +1,10 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
+Use the public URL https://www.reddit.com/r/AzureSentinel/.rss and summarize the top Sentinel community activity on Reddit in the last 3 days.
+```
+---
+```
 Use public URL https://mortenknudsen.net/?p=3163 and supply a summary of the workarounds for the reported Crowdstrike issue.
 ```
 ---

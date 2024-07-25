@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Show me the top 10 apps that are outside my tenant.
+```
+---
+```
 Have there been any failed sign-ins during the last weekend?
 ```
 ---

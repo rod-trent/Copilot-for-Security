@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Defender External Attack Surface Management plugin to work.
 <br><br>
 ```
+Summarize our external attack surface and associated vulnerabilities.
+```
+---
+```
 Use Microsoft Defender External Attack Surface Management to see if my environment may be exposed to CVE-2024-30040.
 ```
 ---

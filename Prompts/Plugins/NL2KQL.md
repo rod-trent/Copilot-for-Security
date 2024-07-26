@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Tell me the intent of the following KQL query: <insert KQL query>
+```
+---
+```
 Use the following information to generate a proper KQL query for Microsoft Sentinel.
 
 Table = SecurityAlert

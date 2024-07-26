@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Have any users been prompted for MFA in the last 48 hours?
+```
+---
+```
 Show me the top 10 apps that are outside my tenant.
 ```
 ---

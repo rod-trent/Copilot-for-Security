@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Tell me how to optimize the following KQL query: <insert KQL query>
+```
+---
+```
 Tell me the intent of the following KQL query: <insert KQL query>
 ```
 ---

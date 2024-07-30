@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Are there any apps that didn't require MFA over the last week?
+```
+---
+```
 Have any users been prompted for MFA in the last 48 hours?
 ```
 ---

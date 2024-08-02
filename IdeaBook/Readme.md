@@ -18,5 +18,5 @@ The chapters are meticulously crafted to guide you on this journey:
 
 Embark on this enlightening voyage with us and let “The Copilot for Security IdeaBook” illuminate your path to a more secure tomorrow.
 
-<p><img src="https://github.com/rod-trent/Copilot-for-Security/blob/main/IdeaBook/Images/IdeaBook%20Cover%20-%20Small.png?raw=true" alt="The Copilot for Security IdeaBook"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/Copilot-for-Security/blob/main/IdeaBook/Images/IdeaBook%20Cover%20-%20Small.png?raw=true" alt="The Copilot for Security IdeaBook"></center></p>
 

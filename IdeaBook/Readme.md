@@ -17,6 +17,6 @@ The chapters are meticulously crafted to guide you on this journey:
 “The Copilot for Security IdeaBook” is your gateway to a future where AI not only complements but elevates your cybersecurity strategy. Whether you’re a battle-hardened expert or an aspiring novice, this book will empower you with a wealth of ideas and insights to take your security measures to new heights.
 
 Embark on this enlightening voyage with us and let “The Copilot for Security IdeaBook” illuminate your path to a more secure tomorrow.
-
+<br><br>
 <p align="center"><img src="https://github.com/rod-trent/Copilot-for-Security/blob/main/IdeaBook/Images/IdeaBook%20Cover%20-%20Small.png" alt="The Copilot for Security IdeaBook"></center></p>
 

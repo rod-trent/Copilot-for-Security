@@ -1,6 +1,34 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Is Defender running on this device?
+```
+---
+```
+Show me the last 5 app crash events on this device.
+```
+---
+```
+What are the top 10 processes using the most memory on this device?
+```
+---
+```
+Show me expired certificates on this device.
+```
+---
+```
+Show me the last 20 most recently created files in C:\Windows\folderPath
+```
+---
+```
+Does this device support TPM 2.0?
+```
+---
+```
+Show me drivers on this device grouped by provider name.
+```
+---
+```
 Give me the total number of devices that are being managed in Intune along with how they are enrolled. Supply the response in a format I can use in a report for budgeting purposes. Also include a format I can use in a Power BI report.
 ```
 ---

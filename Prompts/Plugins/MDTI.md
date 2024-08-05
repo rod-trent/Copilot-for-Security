@@ -1,4 +1,8 @@
 ```
+Summarize threat intelligence about any recent Android app based threats.
+```
+---
+```
 Use Microsoft Threat Intelligence and tell me who is Onyx Sleet?
 ```
 ---

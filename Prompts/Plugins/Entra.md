@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Show me the most recent failed sign-ins in the last month.
+```
+---
+```
 Are there any apps that didn't require MFA over the last week?
 ```
 ---

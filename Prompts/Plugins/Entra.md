@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Tell me about security group <groupname> including who created it and how many members are in it.
+```
+---
+```
 Show me the most recent failed sign-ins in the last month.
 ```
 ---

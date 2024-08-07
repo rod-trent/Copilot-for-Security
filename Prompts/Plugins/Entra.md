@@ -5,7 +5,7 @@ Tell me about security group <groupname> including who created it and how many m
 ```
 ---
 ```
-Show me the most recent failed sign-ins in the last month.
+List the groups <username> is part of.
 ```
 ---
 ```

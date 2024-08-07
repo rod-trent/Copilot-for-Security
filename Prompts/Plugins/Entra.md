@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Tell me about the user accounts that were successfully deleted users in the last week.
+```
+---
+```
 Tell me about security group <groupname> including who created it and how many members are in it.
 ```
 ---

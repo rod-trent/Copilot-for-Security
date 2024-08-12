@@ -1,5 +1,5 @@
 ## Demo: Using Entra with the Standalone Version
 ```
-Show me the most recent failed sign-ins in the last month.
+Have any users been prompted for MFA in the last 48 hours?
 ```
 ---

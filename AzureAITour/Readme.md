@@ -14,3 +14,8 @@ The prompts here are made available as the demo prompts shown during the **Moder
 # Copilot for Security Plugin Library for the Microsoft AI Tour
 
 ## <a href="https://github.com/rod-trent/Copilot-for-Security/tree/main/AzureAITour/Plugins/IP-API" target="_blank">Demo 7: IP-API Plugin</a>
+
+
+# Entra Theater Session Demo
+
+## <a href="https://github.com/rod-trent/Copilot-for-Security/blob/main/AzureAITour/Demos/Entra_Theater.md" target="_blank">Demo: Recent Failed Sign-ins</a>

@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+Determine the exact time when the suspicious activity occurred in Microsoft Sentinel incident <incident_number>.
+```
+---
+```
 List the sequence of events that led to the security anomaly in Microsoft Sentinel incident <incident_number>.
 ```
 ---

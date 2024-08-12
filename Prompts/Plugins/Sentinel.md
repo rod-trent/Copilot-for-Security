@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+Locate the systems impacted by the potential security threat in Microsoft Sentinel incident <incident_number>.
+```
+---
+```
 Determine the exact time when the suspicious activity occurred in Microsoft Sentinel incident <incident_number>.
 ```
 ---

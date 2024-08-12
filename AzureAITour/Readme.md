@@ -18,4 +18,4 @@ The prompts here are made available as the demo prompts shown during the **Moder
 
 # Entra Theater Session Demo
 
-## <a href="https://github.com/rod-trent/Copilot-for-Security/blob/main/AzureAITour/Demos/Entra_Theater.md" target="_blank">Demo: Recent Failed Sign-ins</a>
+## <a href="https://github.com/rod-trent/Copilot-for-Security/blob/main/AzureAITour/Demos/Entra_Theater.md" target="_blank">Demo: MFA Sign-ins and Failed Sign-ins</a>

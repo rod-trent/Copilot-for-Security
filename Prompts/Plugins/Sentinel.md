@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+List the sequence of events that led to the security anomaly in Microsoft Sentinel incident <number>.
+```
+---
+```
 Tell me how to create a Microsoft Sentinel Analytics Rule.
 ```
 ---

@@ -21,7 +21,7 @@ To expose a *Risky User* in an environment using Copilot for Security, you could
 
 4. **Provide more investigation recommendations**:
    ```
-   Suggest how we can investigate further this risky user?
+   Suggest how we can investigate further this risky user
    ```
 
 5. **Request additional methods to help secure the environment**:

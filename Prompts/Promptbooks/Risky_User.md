@@ -11,7 +11,7 @@ To expose a *Risky User* in an environment using Copilot for Security, you could
 
 2. **Why is the user risky?**:
    ```
-   Give detailed context as to why the user is risky?
+   Give detailed context as to why the user is risky
    ```
 
 3. **Is the user's device part of the risk?**:

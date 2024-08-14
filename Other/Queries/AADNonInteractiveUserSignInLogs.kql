@@ -1,0 +1,10 @@
+//Copilot for Security in AADNonInteractiveUserSignInLogs
+
+AADNonInteractiveUserSignInLogs
+| where AppDisplayName == "Medeina Service"
+| extend Burg = parse_json(LocationDetails).city
+| extend ST = parse_json(LocationDetails).state
+| extend LAT = parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).latitude
+| extend LONG = parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).longitude
+| project TimeGenerated, Identity, Burg, ST, LAT, LONG
+

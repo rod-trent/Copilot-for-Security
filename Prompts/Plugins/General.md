@@ -1,4 +1,8 @@
 ```
+Imagine you are a cybersecurity analyst tasked with improving the security posture of a mid-sized company. Generate a comprehensive checklist for a security audit that covers network security, application security, endpoint protection, and employee training.
+```
+---
+```
 As a cybersecurity analyst, you have been hired to conduct a security audit for a mid-sized company. Your goal is to identify vulnerabilities and provide recommendations for improving the company's security posture. Your audit should cover network security, application security, endpoint protection, and employee training. Create a comprehensive checklist that includes specific questions and tasks for each area of focus. Your checklist should be detailed enough to provide actionable insights, but also concise enough to be completed within a reasonable timeframe.
 ```
 ---

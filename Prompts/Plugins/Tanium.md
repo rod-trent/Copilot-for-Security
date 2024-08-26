@@ -1,5 +1,7 @@
 Prompts on this page require the Tanium plugin and Tanium specific solutions to work.
 
+Want more? Check out the <a href="https://help.tanium.com/bundle/ug_connect_cloud/page/connect/ms_copilot_security.html#using_skills" target="_blank">Microsoft Copilot for Security Integration Reference</a> page on Tanium's site.
+
 ## Tanium Copilot Prompts Legend 
 
 Synonyms:

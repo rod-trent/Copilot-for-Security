@@ -1,4 +1,8 @@
 ```
+How can we ensure that cloud security groups are properly configured to provide the same level of access as on-premises security groups?
+```
+---
+```
 Explore the Challenges of Insider Threat Detection in the Financial Services Industry
 ```
 ---

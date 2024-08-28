@@ -1,4 +1,8 @@
 ```
+Explore the Challenges of Insider Threat Detection in the Financial Services Industry
+```
+---
+```
 Discuss the role of Security Orchestration, Automation, and Response (SOAR) in the context of modern security operations. What are some of the key benefits of SOAR? What are some of the challenges associated with implementing SOAR?
 ```
 ---

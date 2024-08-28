@@ -3,6 +3,10 @@ See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-docu
 <br><br>
 
 ```
+Design a Secure MFA Implementation for a Large Enterprise Environment
+```
+---
+```
 How do I use the MFA wizard for Microsoft Entra to enforce multifactor authentication?
 ```
 ---

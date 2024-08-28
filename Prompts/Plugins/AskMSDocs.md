@@ -3,6 +3,10 @@ See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-docu
 <br><br>
 
 ```
+What are some common security risks associated with migrating security groups to the cloud and how can we mitigate these risks?
+```
+---
+```
 What's the most effective method for converting on-premises security groups to cloud groups while minimizing security risks?
 ```
 ---

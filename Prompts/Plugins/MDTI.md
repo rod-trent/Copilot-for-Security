@@ -1,4 +1,8 @@
 ```
+Create a Threat Model for a Cloud-Native Application that is deployed in a multi-cloud environment, uses Kubernetes as its orchestration platform, and is accessible via a publicly exposed API. The threat model should include a detailed analysis of the application's attack surface, potential vulnerabilities, and the impact of a successful attack.
+```
+---
+```
 Provide an overview of the most recent cybersecurity threats and the innovative measures being taken to counteract them.
 ```
 ---

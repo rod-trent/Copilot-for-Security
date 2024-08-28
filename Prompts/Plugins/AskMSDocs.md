@@ -3,6 +3,10 @@ See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-docu
 <br><br>
 
 ```
+What are the top 3 best practices for secure software development that are often overlooked by developers, and how can they be implemented effectively?
+```
+---
+```
 What are the most effective ways to secure IoT devices?
 ```
 ---

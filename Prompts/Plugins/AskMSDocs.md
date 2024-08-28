@@ -3,6 +3,10 @@ See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-docu
 <br><br>
 
 ```
+What are the most effective ways to secure IoT devices?
+```
+---
+```
 Design a Secure MFA Implementation for a Large Enterprise Environment
 ```
 ---

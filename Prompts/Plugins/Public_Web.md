@@ -1,6 +1,10 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
+Summarize the public URL https://www.microsoft.com/en-us/security/blog/2024/08/28/peach-sandstorm-deploys-new-custom-tickler-malware-in-long-running-intelligence-gathering-operations/ about Tickler malware.
+```
+---
+```
 Use the public URL https://www.reddit.com/r/AzureSentinel/.rss and summarize the top Sentinel community activity on Reddit in the last 3 days.
 ```
 ---

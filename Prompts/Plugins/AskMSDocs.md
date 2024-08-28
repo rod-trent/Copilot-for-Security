@@ -3,6 +3,10 @@ See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-docu
 <br><br>
 
 ```
+What's the most effective method for converting on-premises security groups to cloud groups while minimizing security risks?
+```
+---
+```
 Propose a Strategy for Reducing Shadow IT Risks
 ```
 ---

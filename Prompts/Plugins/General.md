@@ -1,15 +1,15 @@
 ```
 Evaluate the Impact of Zero Trust Architecture on Network Security, with a focus on the following aspects:
 
-* The key principles of Zero Trust Architecture
+- The key principles of Zero Trust Architecture
 
-* The benefits and drawbacks of implementing Zero Trust Architecture
+- The benefits and drawbacks of implementing Zero Trust Architecture
 
-* Real-world examples of organizations that have implemented Zero Trust Architecture and the results they have seen
+- Real-world examples of organizations that have implemented Zero Trust Architecture and the results they have seen
 
-* Key considerations for implementing Zero Trust Architecture in an organization
+- Key considerations for implementing Zero Trust Architecture in an organization
 
-* The future of Zero Trust Architecture and its potential impact on network security
+- The future of Zero Trust Architecture and its potential impact on network security
 ```
 ---
 ```

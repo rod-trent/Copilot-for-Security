@@ -1,0 +1,7 @@
+//Successful Login to Copilot for Security
+
+IdentityLogonEvents
+| where TimeGenerated >= ago(24h)
+| where AdditionalFields.["ARG.CLOUD_SERVICE"] == "Medeina Portal"
+| extend User = AdditionalFields.["ACTOR.ALIAS"]
+| project AccountDomain, User, ActionType, AccountUpn, IPAddress, Location, ISP, OSPlatform, DeviceType

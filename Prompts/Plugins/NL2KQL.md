@@ -1,6 +1,13 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Create a KQL query to detect all of the following: 
+1. browsers spawning the Windows Scripting Host (wscript.exe) process
+2. running the whoami command and redirecting the output to a file
+3. domain trust discovery checks with nltest and related commands
+```
+---
+```
 Tell me how to optimize the following KQL query: <insert KQL query>
 ```
 ---

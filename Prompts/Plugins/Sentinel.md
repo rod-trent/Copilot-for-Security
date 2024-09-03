@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+Summarize the 5 most recent Sentinel incidents. Include the Incident title.
+```
+---
+```
 Explain the potential motive behind the observed security incident in Microsoft Sentinel incident <incident_number>.
 ```
 ---

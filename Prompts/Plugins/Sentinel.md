@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+How many Sentinel incidents have been closed in the last 7 days. Include the classification and who each was assigned to.
+```
+---
+```
 Summarize the 5 most recent Sentinel incidents. Include the Incident title.
 ```
 ---

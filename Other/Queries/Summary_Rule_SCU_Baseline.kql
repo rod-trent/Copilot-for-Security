@@ -3,4 +3,4 @@
 AzureActivity
 | where TimeGenerated >= ago(30d)
 | where OperationNameValue == "MICROSOFT.SECURITYCOPILOT/CAPACITIES/WRITE" and ActivityStatusValue == "Success"
-| summarize Count = count() by ActivityStatusValue
+| summarize Count = count() by ActivityStatusValue, TimeGenerated

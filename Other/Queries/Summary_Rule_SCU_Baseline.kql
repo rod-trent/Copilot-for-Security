@@ -1,5 +1,6 @@
 //KQL query for a Sentinel Summary Rule to track SCU changes over time to set requirements baseline.
 
 AzureActivity
+| where TimeGenerated >= ago(30d)
 | where OperationNameValue == "MICROSOFT.SECURITYCOPILOT/CAPACITIES/WRITE" and ActivityStatusValue == "Success"
 | summarize Count = count() by ActivityStatusValue

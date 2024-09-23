@@ -3,6 +3,10 @@
 ```
 ---
 ```
+How can I identify and remove malware from my computer?
+```
+---
+```
 How can I improve the security of my Windows 11 system?
 ```
 ---

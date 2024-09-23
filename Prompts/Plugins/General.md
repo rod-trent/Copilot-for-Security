@@ -1,4 +1,8 @@
 ```
+/AskGPT What is the standard pricing for Copilot for Security?
+```
+---
+```
 How can we ensure that cloud security groups are properly configured to provide the same level of access as on-premises security groups?
 ```
 ---

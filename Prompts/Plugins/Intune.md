@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Can you help me configure Windows Defender Firewall with advanced security settings?
+```
+---
+```
 Is Defender running on this device?
 ```
 ---

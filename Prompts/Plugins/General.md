@@ -1,4 +1,8 @@
 ```
+How do I create strong and secure passwords?
+```
+---
+```
 Can you guide me through setting up a VPN on my device?
 ```
 ---

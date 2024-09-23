@@ -1,4 +1,13 @@
 ```
+Create an XPath query based on the following: 
+
+Security log = 1102, 4624 
+System log = 111, 113, 117 
+PowerShell/Root PowerShell log = 400 
+PowerShell/Operational PowerShell log = 4103, 4104
+```
+---
+```
 What are some effective ways to protect my personal data online?
 ```
 ---

@@ -1,4 +1,8 @@
 ```
+Can you guide me through setting up a VPN on my device?
+```
+---
+```
 /AskGPT What is the standard pricing for Copilot for Security?
 ```
 ---

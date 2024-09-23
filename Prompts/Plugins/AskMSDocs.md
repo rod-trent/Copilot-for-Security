@@ -1,7 +1,10 @@
 Prompts on this page use the Microsoft Docs System Capability. <br><br>
 See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-documentation" target="_blank">Brief: How to Search Microsoft Documentation in Copilot for Security</a> 
 <br><br>
-
+```
+How do I enable two-factor authentication on my accounts?
+```
+---
 ```
 What are some common security risks associated with migrating security groups to the cloud and how can we mitigate these risks?
 ```

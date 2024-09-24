@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/rod-trent/Copilot-for-Security/blob/main/Images/redcanarylogo.png?raw=true" />
+</p>
+
 <center>![Red Canary Logo](https://github.com/rod-trent/Copilot-for-Security/blob/main/Images/redcanarylogo.png?raw=true "Red Canary")</center> 
 
 Prompts on this page require the Red Canary plugin to work.<br><br>

@@ -1,3 +1,5 @@
+
+## Red Canary Investigation - IP Address
 ```
 In Red Canary, can you search for ip address <ip_address>? Be sure to return the Endpoint ID in your response if there is a match.
 ```

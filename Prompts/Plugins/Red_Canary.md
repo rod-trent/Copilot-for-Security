@@ -1,3 +1,6 @@
+Prompts on this page require the Red Canary plugin to work.
+Details here: <a href="https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary">Red Canary plugin for Copilot for Security</a>
+
 ## Red Canary Investigation - IP Address
 _Use the following to create a Promptbook to execute an investigation in Red Canary based on the IP address of an endpoint with promptbookinputs : ip_address_
 ```

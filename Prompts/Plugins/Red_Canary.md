@@ -1,3 +1,5 @@
+![Red Canary Logo](Images/redcanarylogo.png "Red Canary")
+
 Prompts on this page require the Red Canary plugin to work.<br><br>
 Details here: <a href="https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary">Red Canary plugin for Copilot for Security</a>
 

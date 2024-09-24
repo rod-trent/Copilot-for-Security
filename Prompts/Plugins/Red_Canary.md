@@ -1,4 +1,4 @@
-Prompts on this page require the Red Canary plugin to work.
+Prompts on this page require the Red Canary plugin to work.<br>
 Details here: <a href="https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary">Red Canary plugin for Copilot for Security</a>
 
 ## Red Canary Investigation - IP Address

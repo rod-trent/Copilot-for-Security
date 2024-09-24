@@ -1,6 +1,5 @@
-
 ## Red Canary Investigation - IP Address
-_Use the following to create a Promptbook with promptbookinputs : ip_address_
+_Use the following to create a Promptbook to execute an investigation in Red Canary based on the IP address of an endpoint with promptbookinputs : ip_address_
 ```
 In Red Canary, can you search for ip address <ip_address>? Be sure to return the Endpoint ID in your response if there is a match.
 ```
@@ -29,4 +28,26 @@ Add the relevant Red Canary activity and comments to a one page write up summari
 Add the relevant Red Canary activity and comments to a one page write up summarizing this incident and its resolution. The language should be specific but accessible to a less technical audience.
 ```
 ---
+## Red Canary Investigation - Hostname
+_Use the following to create a Promptbook to execute an investigation in Red Canary based on the hostname of an endpoint with promptbookinputs : hostname_
+```
+Search the most recent published threats in Red Canary. Did any of the threats involve host <hostname>. Be sure to include the Threat ID in your response.
+```
+```
+Search Red Canary's external alerts. Do any of the alerts involve the same hostname? If they do be sure to keep that context for your analysis.
+```
+```
+Summarize the suspicious threat activity Red Canary has associated with this threat.
+```
+```
+In Red Canary, are there any timeline details for this threat ID under investigation?
+```
+```
+Can you please list the detectors that were involved in this Detection ID and provide a brief overview of them in table format?
+```
+```
+Use your expert security knowledge and the context in this chat to offer recommendations on how to respond to this threat.
+```
+```
+Add the relevant Red Canary activity and comments to a one page write up summarizing this incident and its resolution. The language should be specific but accessible to a less technical audience.
 ```

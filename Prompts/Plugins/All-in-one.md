@@ -2,11 +2,6 @@ Prompts on this page require the <a href="https://github.com/rod-trent/Copilot-f
 <br><br>
 ```
 Who created a new SCU in the last week?
-//Slide 20
-SecurityEvent
-| where TimeGenerated > ago(1h)
-| where EventID == 4624 // Successful logon
-| where AccountType =~ "user" // case insensitive
 ```
 ---
 ```

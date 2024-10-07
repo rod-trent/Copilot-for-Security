@@ -1,4 +1,8 @@
 ```
+Investigate the potential for AI model extraction attacks and suggest countermeasures.
+```
+---
+```
 Identify any ethical concerns related to the security of our AI systems and propose solutions.
 ```
 ---

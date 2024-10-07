@@ -1,4 +1,8 @@
 ```
+Assess the security implications of using third-party AI services in our infrastructure.
+```
+---
+```
 Evaluate the robustness of our AI systems against adversarial attacks.
 ```
 ---

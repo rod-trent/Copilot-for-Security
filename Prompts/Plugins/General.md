@@ -1,4 +1,8 @@
 ```
+Analyze the security risks associated with AI-driven automation in our network infrastructure.
+```
+---
+```
 Investigate the potential for AI model extraction attacks and suggest countermeasures.
 ```
 ---

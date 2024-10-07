@@ -1,4 +1,8 @@
 ```
+Identify any ethical concerns related to the security of our AI systems and propose solutions.
+```
+---
+```
 Evaluate the effectiveness of our current AI security policies and suggest improvements.
 ```
 ---

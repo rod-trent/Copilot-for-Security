@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/rod-trent/Copilot-for-Security/blob/main/Images/redcanarylogo.png?raw=true" />
 </p>
-A big thanks to <a href="https://redcanary.com/">Red Canary</a>for donating the following prompts to the Prompt Library.<br><br>
+A big thanks to <a href="https://redcanary.com/">Red Canary</a> for donating the following prompts to the Prompt Library.<br><br>
 Prompts on this page require the Red Canary plugin to work.<br><br>
 Details here: <a href="https://learn.microsoft.com/en-us/copilot/security/plugin-red-canary">Red Canary plugin for Copilot for Security</a>
 

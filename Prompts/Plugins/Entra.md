@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Use Defender Entra to provide a user risk assessment.
+```
+---
+```
 Tell me about the actions taken by administrative accounts over the weekend.
 ```
 ---

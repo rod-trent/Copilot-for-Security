@@ -1,0 +1,15 @@
+//Identifies Security Copilot portal logins through the SigninLogs table
+
+SigninLogs
+| where TimeGenerated > ago (24h)
+| where AppDisplayName == "Medeina Portal"
+| extend Browser_Ver = DeviceDetail.browser
+| extend Device_Name = DeviceDetail.displayName
+| extend OS_Ver = DeviceDetail.operatingSystem
+| extend Trust_Type = DeviceDetail.trustType
+| extend City_Loc = LocationDetails.city
+| extend Country_Loc = LocationDetails.countryOrRegion
+| extend State_Loc = LocationDetails.state
+| extend Lat = parse_json(tostring(LocationDetails.geoCoordinates)).latitude
+| extend Long = parse_json(tostring(LocationDetails.geoCoordinates)).longitude
+| project TimeGenerated, UserDisplayName, UserPrincipalName, ClientAppUsed, Browser_Ver, Device_Name, OS_Ver, Trust_Type, City_Loc, State_Loc, Country_Loc, Lat, Long

@@ -1,0 +1,262 @@
+{
+  "version": "Notebook/1.0",
+  "items": [
+    {
+      "type": 1,
+      "content": {
+        "json": "## Security Copilot Workbook\n---\n\n![Security Copilot](https://github.com/rod-trent/Copilot-for-Security/blob/main/Images/SCLogo.jpg?raw=true \"Security Copilot Logo\")"
+      },
+      "name": "text - 2"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "SigninLogs\r\n| where AppDisplayName == \"Medeina Portal\"\r\n| extend Browser_Ver = DeviceDetail.browser\r\n| extend Device_Name = DeviceDetail.displayName\r\n| extend OS_Ver = DeviceDetail.operatingSystem\r\n| extend Trust_Type = DeviceDetail.trustType\r\n| extend City_Loc = LocationDetails.city\r\n| extend Country_Loc = LocationDetails.countryOrRegion\r\n| extend State_Loc = LocationDetails.state\r\n| extend Lat = parse_json(tostring(LocationDetails.geoCoordinates)).latitude\r\n| extend Long = parse_json(tostring(LocationDetails.geoCoordinates)).longitude\r\n| project TimeGenerated, UserDisplayName, UserPrincipalName, ClientAppUsed, Browser_Ver, Device_Name, OS_Ver, Trust_Type, City_Loc, State_Loc, Country_Loc, Lat, Long",
+        "size": 1,
+        "title": "Security Copilot Logins in the last 30 days",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces",
+        "visualization": "table",
+        "tileSettings": {
+          "showBorder": false
+        },
+        "graphSettings": {
+          "type": 0
+        },
+        "mapSettings": {
+          "locInfo": "LatLong",
+          "latitude": "Lat",
+          "longitude": "Long",
+          "sizeSettings": "TimeGenerated",
+          "sizeAggregation": "Sum",
+          "legendAggregation": "Sum",
+          "itemColorSettings": null
+        }
+      },
+      "name": "query - 2"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AADNonInteractiveUserSignInLogs\r\n| where AppDisplayName == \"Medeina Service\"\r\n| extend Burg = parse_json(LocationDetails).city\r\n| extend ST = parse_json(LocationDetails).state\r\n| extend LAT = parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).latitude\r\n| extend LONG = parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).longitude\r\n| project TimeGenerated, Identity, Burg, ST, LAT, LONG",
+        "size": 0,
+        "title": "AADNonInteractiveUserSignInLogs",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 2"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AADNonInteractiveUserSignInLogs\r\n| where ResourceDisplayName has \"Medeina\"\r\n| project TimeGenerated, ResourceDisplayName, AppDisplayName, toint(ProcessingTimeInMs)\r\n| summarize Avg_Processing_Time_in_ms = avg(ProcessingTimeInMs) by ResourceDisplayName, AppDisplayName, TimeGenerated",
+        "size": 0,
+        "title": "Average of SCU processing time by instance",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 5"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AzureActivity\r\n| where OperationNameValue == \"MICROSOFT.SECURITYCOPILOT/CAPACITIES/WRITE\"\r\n| where ActivityStatusValue == \"Success\"\r\n| project Caller, CallerIpAddress, ResourceGroup",
+        "size": 0,
+        "title": "When SCUs have been created or changed",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 6"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AADNonInteractiveUserSignInLogs\r\n| where ResourceDisplayName has \"Medeina\"\r\n| project TimeGenerated, ResourceDisplayName, AppDisplayName, toint(ProcessingTimeInMs)\r\n| summarize Avg_Processing_Time_in_ms = avg(ProcessingTimeInMs) by ResourceDisplayName",
+        "size": 0,
+        "title": "Average of SCU processing time",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 4"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "CloudAppEvents\r\n| where ActionType == \"Write Capacities\"\r\n| project AccountDisplayName, City, CountryCode, ISP, ObjectName",
+        "size": 0,
+        "title": "When SCUs have been created or changed",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 8"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AzureActivity\r\n| where OperationNameValue == \"MICROSOFT.SECURITYCOPILOT/REGISTER/ACTION\"\r\n| project Caller, CallerIpAddress, ResourceGroup",
+        "size": 0,
+        "title": "Enabling Copilot for Security",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 7"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AADNonInteractiveUserSignInLogs \r\n| where AppDisplayName == \"Microsoft 365 Security and Compliance Center\" \r\n| where ResourceDisplayName has \"Medeina\" \r\n| extend city_ = tostring(parse_json(LocationDetails).city) \r\n| extend countryOrRegion_ = tostring(parse_json(LocationDetails).countryOrRegion) \r\n| extend latitude_ = tostring(parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).latitude) \r\n| extend longitude_ = tostring(parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).longitude) \r\n| extend state_ = tostring(parse_json(LocationDetails).state) \r\n| project TimeGenerated, Identity, UserType, UserPrincipalName, city_, countryOrRegion_, state_, latitude_, longitude_, ResourceDisplayName, AppDisplayName, ProcessingTimeInMs",
+        "size": 0,
+        "title": "Identifies Unified console activity Security Copilot",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 9"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "BehaviorAnalytics\r\n| where ActivityInsights.App == \"Medeina Portal\"\r\n| where ActivityInsights.Resource == \"Medeina Service\"\r\n| where ActivityType == \"FailedLogOn\"\r\n| project UserName, UserPrincipalName, ActionType, EventSource, SourceIPAddress, SourceIPLocation",
+        "size": 0,
+        "title": "Failed signins",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 10"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "SigninLogs \r\n| where AppDisplayName == \"Medeina Portal\" \r\n| where ResultType == \"50074\" \r\n| extend city = LocationDetails.city \r\n| extend state = LocationDetails.state \r\n| extend region = LocationDetails.countryOrRegion \r\n| extend latitude = parse_json(tostring(LocationDetails.geoCoordinates)).latitude \r\n| extend longitude = parse_json(tostring(LocationDetails.geoCoordinates)).longitude \r\n| project UserDisplayName, UserPrincipalName, UserType, city, state, region, latitude, longitude, AADTenantId",
+        "size": 0,
+        "title": "Failed MFA authentication against the Standalone experience",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 11"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AADNonInteractiveUserSignInLogs \r\n| where AppDisplayName == \"Microsoft Intune portal extension\" \r\n| extend city_ = tostring(parse_json(LocationDetails).city) \r\n| extend countryOrRegion_ = tostring(parse_json(LocationDetails).countryOrRegion) \r\n| extend latitude_ = tostring(parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).latitude) \r\n| extend longitude_ = tostring(parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).longitude) \r\n| extend state_ = tostring(parse_json(LocationDetails).state) \r\n| project TimeGenerated, Identity, UserType, UserPrincipalName, city_, countryOrRegion_, state_, latitude_, longitude_, ResourceDisplayName, AppDisplayName, ProcessingTimeInMs",
+        "size": 0,
+        "title": "When the Intune extension for has been used",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 12"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "IdentityLogonEvents\r\n| where AdditionalFields.[\"ARG.CLOUD_SERVICE\"] == \"Medeina Portal\"\r\n| extend User = AdditionalFields.[\"ACTOR.ALIAS\"]\r\n| project AccountDomain, User, ActionType, AccountUpn, IPAddress, Location, ISP, OSPlatform, DeviceType",
+        "size": 0,
+        "title": "Successful Login to Security Copilot",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 13"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AzureActivity\r\n| where TimeGenerated >= ago(30d)\r\n| where OperationNameValue == \"MICROSOFT.SECURITYCOPILOT/CAPACITIES/WRITE\" and ActivityStatusValue == \"Success\"\r\n| summarize Count = count() by ActivityStatusValue, TimeGenerated",
+        "size": 0,
+        "title": "Track SCU changes over time to set requirements baseline",
+        "timeContext": {
+          "durationMs": 2592000000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces",
+        "visualization": "table",
+        "tileSettings": {
+          "showBorder": false,
+          "titleContent": {
+            "columnMatch": "ActivityStatusValue",
+            "formatter": 1
+          },
+          "leftContent": {
+            "columnMatch": "Count",
+            "formatter": 12,
+            "formatOptions": {
+              "palette": "auto"
+            },
+            "numberFormat": {
+              "unit": 17,
+              "options": {
+                "maximumSignificantDigits": 3,
+                "maximumFractionDigits": 2
+              }
+            }
+          }
+        }
+      },
+      "name": "query - 14"
+    },
+    {
+      "type": 3,
+      "content": {
+        "version": "KqlItem/1.0",
+        "query": "AADNonInteractiveUserSignInLogs\r\n| where ResourceDisplayName has \"Medeina\"\r\n| where AppDisplayName == \"Threat Intelligence Portal\"\r\n| extend city_ = tostring(parse_json(LocationDetails).city) \r\n| extend countryOrRegion_ = tostring(parse_json(LocationDetails).countryOrRegion) \r\n| extend latitude_ = tostring(parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).latitude) \r\n| extend longitude_ = tostring(parse_json(tostring(parse_json(LocationDetails).geoCoordinates)).longitude) \r\n| extend state_ = tostring(parse_json(LocationDetails).state) \r\n| project TimeGenerated, Identity, UserType, UserPrincipalName, city_, countryOrRegion_, state_, latitude_, longitude_, ResourceDisplayName, AppDisplayName, ProcessingTimeInMs",
+        "size": 0,
+        "title": "Who accessed the Defender Threat Intelligence Portal",
+        "timeContext": {
+          "durationMs": 86400000
+        },
+        "queryType": 0,
+        "resourceType": "microsoft.operationalinsights/workspaces"
+      },
+      "name": "query - 3"
+    }
+  ],
+  "fromTemplateId": "sentinel-UserWorkbook",
+  "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
+}

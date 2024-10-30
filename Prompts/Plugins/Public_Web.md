@@ -1,6 +1,10 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
+Summarize the following URL to tell me about Midnight Blizzard. Include the hunting queries and indicators of compromise. https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
+```
+---
+```
 Summarize the public URL https://www.microsoft.com/en-us/security/blog/2024/08/28/peach-sandstorm-deploys-new-custom-tickler-malware-in-long-running-intelligence-gathering-operations/ about Tickler malware.
 ```
 ---

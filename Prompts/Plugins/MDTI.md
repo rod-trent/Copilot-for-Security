@@ -1,4 +1,8 @@
 ```
+Tell me the latest Midnight Blizzard. Include hunting queries and indicators of compromise.
+```
+---
+```
 Please evaluate my environment for risk.
 ```
 ---

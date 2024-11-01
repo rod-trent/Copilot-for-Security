@@ -1,5 +1,5 @@
 ```
-Tell me the latest Midnight Blizzard. Include hunting queries and indicators of compromise.
+Tell me the latest about Midnight Blizzard.
 ```
 ---
 ```

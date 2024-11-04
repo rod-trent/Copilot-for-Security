@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft 365 Defender plugin to work.
 <br><br>
 ```
+Provide an overview of resolved Defender XDR incidents from the past month
+```
+---
+```
 I have been out sick since Friday. Do I have any high severity incidents in Defender assigned to me since then?
 ```
 ---

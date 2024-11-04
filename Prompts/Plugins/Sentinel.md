@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+Summarize the recent security incidents analyzed by Microsoft Sentinel
+```
+---
+```
 How many Sentinel incidents have been closed in the last 3 days. Include the classification, who each was assigned to, and how long in minutes it took for each incident to be completed.
 ```
 ---

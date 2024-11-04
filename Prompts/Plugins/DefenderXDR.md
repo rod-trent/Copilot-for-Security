@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft 365 Defender plugin to work.
 <br><br>
 ```
+Summarize the recent Defender XDR incidents and their impact
+```
+---
+```
 Provide an overview of resolved Defender XDR incidents from the past month
 ```
 ---

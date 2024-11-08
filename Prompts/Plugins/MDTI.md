@@ -1,3 +1,9 @@
+MDTI is integral to the Copilot for Security experience. 
+
+```
+Give me a profile summary of Aqua Blizzard. Include an executive summary at the beginning.
+```
+---
 ```
 Tell me the latest about Midnight Blizzard.
 ```

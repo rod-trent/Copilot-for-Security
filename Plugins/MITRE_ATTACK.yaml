@@ -12,9 +12,9 @@ SkillGroups:
         Description: The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
         Settings:
           Target: Sentinel
-          TenantId: f70d46d0-7fd7-48a5-8586-e6a8199d4de5
-          SubscriptionId: 2959f496-711b-447e-9b85-53a1da341c4c
-          ResourceGroupName: rodazuresentinel
-          WorkspaceName: RodAzureSentinelWorkspace
+          TenantId: <your_tenant_ID>
+          SubscriptionId: <your_subscription_ID>
+          ResourceGroupName: <your_RG_name>
+          WorkspaceName: <your_WS_name>
           Template: |-
             let MITRE = externaldata (name:string,id:string,url:string,platforms:string,killchainphases:string,description:string,datasources:string,detection:string) [@"https://raw.githubusercontent.com/rod-trent/Copilot-for-Security/main/Plugins/Data/enterprise-attack.csv"] with (ignoreFirstRecord=true, format="csv"); MITRE

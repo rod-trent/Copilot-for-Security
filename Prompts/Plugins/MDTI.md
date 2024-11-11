@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Evaluate the effectiveness of our current defenses against the latest threat actors.
+```
+---
+```
 Review and report any suspicious activities linked to newly identified threat actors.
 ```
 ---

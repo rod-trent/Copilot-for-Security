@@ -5,6 +5,10 @@ Detect potential vulnerabilities exposed by new threat actors.
 ```
 ---
 ```
+Detect potential vulnerabilities exposed by new threat actors.
+```
+---
+```
 Summarize the latest threat actors.
 ```
 ---

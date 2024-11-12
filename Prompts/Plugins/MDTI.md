@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Tell me about the following CVEs: CVE-2024-43620, CVE-2024-49039, CVE-2024-43627, CVE-2024-43621, CVE-2024-43622, CVE-2024-43635, CVE-2024-43628, CVE-2024-43641
+```
+---
+```
 Evaluate the effectiveness of our current defenses against the latest threat actors.
 ```
 ---

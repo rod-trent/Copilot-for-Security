@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Invoke "Get device group memberships" skill in the "Microsoft Intune" plugin for device <device name>
+```
+---
+```
 Show me a list of the active devices in my environment.
 ```
 ---

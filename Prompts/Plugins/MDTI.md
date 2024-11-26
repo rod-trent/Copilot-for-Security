@@ -4,7 +4,7 @@ MDTI is integral to the Copilot for Security experience. <br>
 Provide guidance for CVE-2024-0012, CVE-2024-9474 affecting PAN-OS.
 ```
 ```
-                  Provide KQL queries.
+Provide KQL queries.
 ```
 ---
 ```

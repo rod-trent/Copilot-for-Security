@@ -1,4 +1,8 @@
 ```
+Based on known intelligence, draft an email to my users to remind them about the top security threats during the holiday season.
+```
+---
+```
 Analyze the security risks associated with AI-driven automation in our network infrastructure.
 ```
 ---

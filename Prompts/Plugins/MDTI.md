@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Which threats should I focus on based upon their exposure scores?
+```
+---
+```
 Provide guidance for CVE-2024-0012, CVE-2024-9474 affecting PAN-OS.
 ```
 ```

@@ -1,4 +1,8 @@
 ```
+Tell me how to apply Zero Trust principles on my current infrastructure.
+```
+---
+```
 Suggest best practices for improving our email security.
 ```
 ---

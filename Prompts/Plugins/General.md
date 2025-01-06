@@ -1,4 +1,8 @@
 ```
+Suggest best practices for improving our email security.
+```
+---
+```
 Based on known intelligence, draft an email to my users to remind them about the top security threats during the holiday season.
 ```
 ---

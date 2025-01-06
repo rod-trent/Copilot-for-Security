@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Identify vulnerabilities in our current security infrastructure.
+```
+---
+```
 Which threats should I focus on based upon their exposure scores?
 ```
 ---

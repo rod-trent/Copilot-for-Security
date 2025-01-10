@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Which devices are used by user <UPN>?
+```
+---
+```
 Invoke "Get device group memberships" skill in the "Microsoft Intune" plugin for device <device name>
 ```
 ---

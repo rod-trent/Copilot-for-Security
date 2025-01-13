@@ -2,6 +2,10 @@ Prompts on this page use the Microsoft Docs System Capability. <br><br>
 See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-documentation" target="_blank">Brief: How to Search Microsoft Documentation in Copilot for Security</a> 
 <br><br>
 ```
+Can you provide a step-by-step guide to set up and manage Microsoft Defender for Endpoint?
+```
+---
+```
 How do I configure Azure AD to enforce multi-factor authentication for all users?
 ```
 ---

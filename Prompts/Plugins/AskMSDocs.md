@@ -2,7 +2,7 @@ Prompts on this page use the Microsoft Docs System Capability. <br><br>
 See: <a href="https://rodtrent.substack.com/p/brief-how-to-search-microsoft-documentation" target="_blank">Brief: How to Search Microsoft Documentation in Copilot for Security</a> 
 <br><br>
 ```
-As MSDocs to give an overview of threat detection and response features in Microsoft Sentinel.
+Ask MSDocs to give an overview of threat detection and response features in Microsoft Sentinel.
 ```
 ---
 ```

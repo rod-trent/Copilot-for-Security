@@ -1,4 +1,8 @@
 ```
+What are the key security measures being implemented to protect the U.S. presidential inauguration from cyber threats?
+```
+---
+```
 Tell me how to apply Zero Trust principles on my current infrastructure.
 ```
 ---

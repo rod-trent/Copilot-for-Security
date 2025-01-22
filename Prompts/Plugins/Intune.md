@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+Give me the status of the <devicename>. Is it managed, is it compliant with management policies?
+```
+---
+```
 Which devices are used by user <UPN>?
 ```
 ---

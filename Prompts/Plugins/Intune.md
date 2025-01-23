@@ -1,6 +1,10 @@
 Prompts on this page require the Intune plugin to work.
 <br><br>
 ```
+What groups is Microsoft Monitoring Agent assigned to?
+```
+---
+```
 Give me the status of the <devicename>. Is it managed, is it compliant with management policies?
 ```
 ---

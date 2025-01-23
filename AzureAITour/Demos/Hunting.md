@@ -1,5 +1,5 @@
 ## Demo: Using CfS TI for Hunting
 ```
-Summarize the latest threat intelligence on ransomware attacks.
+Supply a report for my SOC manager about the most currently reported threats.
 ```
 ---

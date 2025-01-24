@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Show me the authentication methods enabled for user <user name>
+```
+---
+```
 Use Defender Entra to provide a user risk assessment.
 ```
 ---

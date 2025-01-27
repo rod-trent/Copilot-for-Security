@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Generate a hunting query to find identify processes that are known to be associated with malware.
+```
+---
+```
 Supply KQL to help identify Midnight Blizzard on my network.
 ```
 ---

@@ -1,6 +1,10 @@
 Prompts on this page require that the Public Web plugin be enabled.
 <br><br>
 ```
+Use public URL https://www.bing.com/news/search?q=DeepSeek&FORM=HDRSC8 and give me a summary of security concerns about DeepSeek.
+```
+---
+```
 Summarize the following URL to tell me about Midnight Blizzard. Include the hunting queries and indicators of compromise. https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
 ```
 ---

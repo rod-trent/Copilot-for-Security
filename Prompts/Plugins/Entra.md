@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+When did the user <username> last change their password?
+```
+---
+```
 Show me the authentication methods enabled for user <user name>
 ```
 ---

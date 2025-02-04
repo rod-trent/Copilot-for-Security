@@ -1,6 +1,10 @@
 Prompts on this page require the Natural Language to KQL plugin to work.
 <br><br>
 ```
+Show any unusual Defender activity involving USB devices over the past 30 days. Look for patterns such as frequent file transfers, large data transfers, or connections to unauthorized devices. Generate a report summarizing any suspicious activities and potential data exfiltration incidents.
+```
+---
+```
 Generate a hunting query to find identify processes that are known to be associated with malware.
 ```
 ---

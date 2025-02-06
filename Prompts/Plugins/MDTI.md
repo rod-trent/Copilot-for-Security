@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Which threat actors are targeting the Finance industry.
+```
+---
+```
 Tell me about CVE-2024-12356 and CVE-2024-12686 that was involved in a recent United States Treasury Department hack by China. Identify if these impact my own environment and give me the CVSS scores that I can include in a report to my manager.
 ```
 ---

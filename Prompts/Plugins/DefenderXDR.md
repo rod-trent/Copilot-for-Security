@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft 365 Defender plugin to work.
 <br><br>
 ```
+Summarize incident <Incident_number> in Microsoft Defender XDR into a paragraph that I can submit to my manager and create a list of entities involved.
+```
+---
+```
 Highlight the most critical Defender XDR incidents detected this week
 ```
 ---

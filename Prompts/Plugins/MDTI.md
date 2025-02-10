@@ -4,7 +4,7 @@ MDTI is integral to the Copilot for Security experience. <br>
 Can you give me information about Pearl Sleet activity, including a list of known indicators of compromise and tools, tactics, and procedures (TTPs)?
 ```
       
-Tell me more about Pearl Sleet, and include the associated IOCs and TTPs.
+                              Tell me more about Pearl Sleet, and include the associated IOCs and TTPs.
       
 ---
 ```

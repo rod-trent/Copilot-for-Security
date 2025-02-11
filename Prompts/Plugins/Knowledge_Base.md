@@ -6,6 +6,7 @@ Review our current incident response plan file and provide recommendations to im
 ```
 Grab the KB file for this prompt file for this prompt: 
 <a href="https://github.com/rod-trent/Copilot-for-Security/blob/main/Prompts/Plugins/Knowledge_Base_Files/Cybersecurity%20Incident%20Response%20Plan.docx" target="_blank">Cybersecurity Incident Response Plan (CIRP)</a>
+```
 ---
 ```
 ---

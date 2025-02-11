@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Tell me about North Korean state actor Emerald Sleet and provide IOCs.
+```
+---
+```
 Can you give me information about Pearl Sleet activity, including a list of known indicators of compromise and tools, tactics, and procedures (TTPs)?
 ```
       

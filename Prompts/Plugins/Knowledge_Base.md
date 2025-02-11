@@ -9,4 +9,3 @@ Grab the KB file for this prompt file for this prompt:
 ```
 ---
 ```
----

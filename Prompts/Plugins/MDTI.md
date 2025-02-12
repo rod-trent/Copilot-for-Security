@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Give me a summarized explanation about Russian state actor Seashell Blizzard and provide IOCs.
+```
+---
+```
 Tell me about North Korean state actor Emerald Sleet and provide IOCs.
 ```
 ---

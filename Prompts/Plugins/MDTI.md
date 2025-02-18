@@ -1,6 +1,10 @@
 MDTI is integral to the Copilot for Security experience. <br>
 
 ```
+Provide a summary of the latest vulnerabilities affecting Microsoft Office in the last 3 months.
+```
+---
+```
 Give me a summarized explanation about Russian state actor Seashell Blizzard and provide IOCs.
 ```
 ---

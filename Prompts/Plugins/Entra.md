@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Have any users NOT been prompted for MFA in the last 48 hours?
+```
+---
+```
 When did the user <username> last change their password?
 ```
 ---

@@ -1,6 +1,10 @@
 Prompts on this page require the Microsoft Sentinel plugin to work.
 <br><br>
 ```
+List all Sentinel workspaces.
+```
+---
+```
 Summarize the recent security incidents analyzed by Microsoft Sentinel
 ```
 ---

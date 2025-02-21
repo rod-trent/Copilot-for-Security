@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Conduct an audit of user access permissions across all systems and identify any unauthorized or unusual access patterns.
+```
+---
+```
 Have any users NOT been prompted for MFA in the last 48 hours?
 ```
 ---

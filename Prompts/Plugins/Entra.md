@@ -1,6 +1,10 @@
 Prompts on this page require the Entra plugin to work.
 <br><br>
 ```
+Evaluate current access policies and suggest improvements to enhance security.
+```
+---
+```
 Conduct an audit of user access permissions across all systems and identify any unauthorized or unusual access patterns.
 ```
 ---
